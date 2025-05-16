@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load dataset
-df = pd.read_csv("ipl_data_2024\ipl_delieveries_2024.csv")
+df = pd.read_csv("ipl_data_2024\ipl_deliveries_2024.csv")
 
 # Clean 'extras_type' column
 df['extras_type'] = df['extras_type'].fillna('').str.strip().str.lower()
