@@ -1,0 +1,1116 @@
+match_id,inning,batter,runs,balls,fours,sixes,batting_position,out/not out,SR,match
+1422119,Royal Challengers Bengaluru,Anuj Rawat,48,25,4,3,6,out,192.0,Royal Challengers Bengaluru vs Chennai Super Kings
+1422119,Royal Challengers Bengaluru,C Green,18,22,1,0,5,out,81.82,Royal Challengers Bengaluru vs Chennai Super Kings
+1422119,Royal Challengers Bengaluru,F du Plessis,35,23,8,0,2,out,152.17,Royal Challengers Bengaluru vs Chennai Super Kings
+1422119,Royal Challengers Bengaluru,GJ Maxwell,0,1,0,0,4,out,0.0,Royal Challengers Bengaluru vs Chennai Super Kings
+1422119,Royal Challengers Bengaluru,KD Karthik,38,26,3,2,7,not out,146.15,Royal Challengers Bengaluru vs Chennai Super Kings
+1422119,Royal Challengers Bengaluru,RM Patidar,0,3,0,0,3,out,0.0,Royal Challengers Bengaluru vs Chennai Super Kings
+1422119,Royal Challengers Bengaluru,V Kohli,21,20,0,1,1,out,105.0,Royal Challengers Bengaluru vs Chennai Super Kings
+1422119,Chennai Super Kings,AM Rahane,27,19,0,2,3,out,142.11,Chennai Super Kings vs Royal Challengers Bengaluru
+1422119,Chennai Super Kings,DJ Mitchell,22,18,0,2,4,out,122.22,Chennai Super Kings vs Royal Challengers Bengaluru
+1422119,Chennai Super Kings,R Ravindra,37,15,3,3,2,out,246.67,Chennai Super Kings vs Royal Challengers Bengaluru
+1422119,Chennai Super Kings,RA Jadeja,25,17,0,1,6,not out,147.06,Chennai Super Kings vs Royal Challengers Bengaluru
+1422119,Chennai Super Kings,RD Gaikwad,15,15,3,0,1,out,100.0,Chennai Super Kings vs Royal Challengers Bengaluru
+1422119,Chennai Super Kings,S Dube,34,28,4,1,5,not out,121.43,Chennai Super Kings vs Royal Challengers Bengaluru
+1422120,Delhi Capitals,AR Patel,21,13,2,1,7,out,161.54,Delhi Capitals vs Punjab Kings
+1422120,Delhi Capitals,Abishek Porel,32,10,4,2,9,not out,320.0,Delhi Capitals vs Punjab Kings
+1422120,Delhi Capitals,DA Warner,29,21,3,2,1,out,138.1,Delhi Capitals vs Punjab Kings
+1422120,Delhi Capitals,Kuldeep Yadav,1,2,0,0,10,out,50.0,Delhi Capitals vs Punjab Kings
+1422120,Delhi Capitals,MR Marsh,20,12,2,2,2,out,166.67,Delhi Capitals vs Punjab Kings
+1422120,Delhi Capitals,RK Bhui,3,7,0,0,5,out,42.86,Delhi Capitals vs Punjab Kings
+1422120,Delhi Capitals,RR Pant,18,13,2,0,4,out,138.46,Delhi Capitals vs Punjab Kings
+1422120,Delhi Capitals,SD Hope,33,25,2,2,3,out,132.0,Delhi Capitals vs Punjab Kings
+1422120,Delhi Capitals,Sumit Kumar,2,9,0,0,8,out,22.22,Delhi Capitals vs Punjab Kings
+1422120,Delhi Capitals,T Stubbs,5,8,0,0,6,out,62.5,Delhi Capitals vs Punjab Kings
+1422120,Punjab Kings,Harpreet Brar,2,2,0,0,8,not out,100.0,Punjab Kings vs Delhi Capitals
+1422120,Punjab Kings,JM Bairstow,9,3,2,0,2,out,300.0,Punjab Kings vs Delhi Capitals
+1422120,Punjab Kings,JM Sharma,9,9,1,0,5,out,100.0,Punjab Kings vs Delhi Capitals
+1422120,Punjab Kings,LS Livingstone,38,21,2,3,6,not out,180.95,Punjab Kings vs Delhi Capitals
+1422120,Punjab Kings,P Simran Singh,26,17,5,0,3,out,152.94,Punjab Kings vs Delhi Capitals
+1422120,Punjab Kings,S Dhawan,22,16,4,0,1,out,137.5,Punjab Kings vs Delhi Capitals
+1422120,Punjab Kings,SM Curran,63,47,6,1,4,out,134.04,Punjab Kings vs Delhi Capitals
+1422120,Punjab Kings,Shashank Singh,0,1,0,0,7,out,0.0,Punjab Kings vs Delhi Capitals
+1422121,Kolkata Knight Riders,AD Russell,60,24,2,7,8,not out,250.0,Kolkata Knight Riders vs Sunrisers Hyderabad
+1422121,Kolkata Knight Riders,MA Starc,6,3,1,0,9,not out,200.0,Kolkata Knight Riders vs Sunrisers Hyderabad
+1422121,Kolkata Knight Riders,N Rana,9,11,1,0,5,out,81.82,Kolkata Knight Riders vs Sunrisers Hyderabad
+1422121,Kolkata Knight Riders,PD Salt,54,40,3,3,1,out,135.0,Kolkata Knight Riders vs Sunrisers Hyderabad
+1422121,Kolkata Knight Riders,RK Singh,23,15,3,0,7,out,153.33,Kolkata Knight Riders vs Sunrisers Hyderabad
+1422121,Kolkata Knight Riders,Ramandeep Singh,29,16,1,3,6,out,181.25,Kolkata Knight Riders vs Sunrisers Hyderabad
+1422121,Kolkata Knight Riders,SP Narine,2,4,0,0,2,out,50.0,Kolkata Knight Riders vs Sunrisers Hyderabad
+1422121,Kolkata Knight Riders,SS Iyer,0,2,0,0,4,out,0.0,Kolkata Knight Riders vs Sunrisers Hyderabad
+1422121,Kolkata Knight Riders,VR Iyer,7,5,1,0,3,out,140.0,Kolkata Knight Riders vs Sunrisers Hyderabad
+1422121,Sunrisers Hyderabad,AK Markram,18,13,2,0,4,out,138.46,Sunrisers Hyderabad vs Kolkata Knight Riders
+1422121,Sunrisers Hyderabad,Abdul Samad,15,11,1,1,6,out,136.36,Sunrisers Hyderabad vs Kolkata Knight Riders
+1422121,Sunrisers Hyderabad,Abhishek Sharma,32,19,4,2,2,out,168.42,Sunrisers Hyderabad vs Kolkata Knight Riders
+1422121,Sunrisers Hyderabad,H Klaasen,63,29,0,8,5,out,217.24,Sunrisers Hyderabad vs Kolkata Knight Riders
+1422121,Sunrisers Hyderabad,M Jansen,1,1,0,0,8,not out,100.0,Sunrisers Hyderabad vs Kolkata Knight Riders
+1422121,Sunrisers Hyderabad,MA Agarwal,32,21,4,1,1,out,152.38,Sunrisers Hyderabad vs Kolkata Knight Riders
+1422121,Sunrisers Hyderabad,PJ Cummins,0,1,0,0,9,not out,0.0,Sunrisers Hyderabad vs Kolkata Knight Riders
+1422121,Sunrisers Hyderabad,RA Tripathi,20,20,0,1,3,out,100.0,Sunrisers Hyderabad vs Kolkata Knight Riders
+1422121,Sunrisers Hyderabad,Shahbaz Ahmed,16,5,1,2,7,out,320.0,Sunrisers Hyderabad vs Kolkata Knight Riders
+1422122,Rajasthan Royals,Dhruv Jurel,20,12,1,1,6,not out,166.67,Rajasthan Royals vs Lucknow Super Giants
+1422122,Rajasthan Royals,JC Buttler,11,9,2,0,2,out,122.22,Rajasthan Royals vs Lucknow Super Giants
+1422122,Rajasthan Royals,R Parag,43,29,1,3,4,out,148.28,Rajasthan Royals vs Lucknow Super Giants
+1422122,Rajasthan Royals,SO Hetmyer,5,7,0,0,5,out,71.43,Rajasthan Royals vs Lucknow Super Giants
+1422122,Rajasthan Royals,SV Samson,82,51,3,6,3,not out,160.78,Rajasthan Royals vs Lucknow Super Giants
+1422122,Rajasthan Royals,YBK Jaiswal,24,12,3,1,1,out,200.0,Rajasthan Royals vs Lucknow Super Giants
+1422122,Lucknow Super Giants,A Badoni,1,5,0,0,4,out,20.0,Lucknow Super Giants vs Rajasthan Royals
+1422122,Lucknow Super Giants,D Padikkal,0,3,0,0,2,out,0.0,Lucknow Super Giants vs Rajasthan Royals
+1422122,Lucknow Super Giants,DJ Hooda,26,13,2,2,5,out,200.0,Lucknow Super Giants vs Rajasthan Royals
+1422122,Lucknow Super Giants,KH Pandya,3,5,0,0,8,not out,60.0,Lucknow Super Giants vs Rajasthan Royals
+1422122,Lucknow Super Giants,KL Rahul,58,44,4,2,3,out,131.82,Lucknow Super Giants vs Rajasthan Royals
+1422122,Lucknow Super Giants,MP Stoinis,3,4,0,0,7,out,75.0,Lucknow Super Giants vs Rajasthan Royals
+1422122,Lucknow Super Giants,N Pooran,64,41,4,4,6,not out,156.1,Lucknow Super Giants vs Rajasthan Royals
+1422122,Lucknow Super Giants,Q de Kock,4,5,1,0,1,out,80.0,Lucknow Super Giants vs Rajasthan Royals
+1422123,Gujarat Titans,Azmatullah Omarzai,17,11,1,1,4,out,154.55,Gujarat Titans vs Mumbai Indians
+1422123,Gujarat Titans,B Sai Sudharsan,45,39,3,1,3,out,115.38,Gujarat Titans vs Mumbai Indians
+1422123,Gujarat Titans,DA Miller,12,11,1,0,5,out,109.09,Gujarat Titans vs Mumbai Indians
+1422123,Gujarat Titans,R Tewatia,22,14,2,1,7,out,157.14,Gujarat Titans vs Mumbai Indians
+1422123,Gujarat Titans,Rashid Khan,4,3,0,0,8,not out,133.33,Gujarat Titans vs Mumbai Indians
+1422123,Gujarat Titans,Shubman Gill,31,22,3,1,2,out,140.91,Gujarat Titans vs Mumbai Indians
+1422123,Gujarat Titans,V Shankar,6,5,0,0,6,not out,120.0,Gujarat Titans vs Mumbai Indians
+1422123,Gujarat Titans,WP Saha,19,15,4,0,1,out,126.67,Gujarat Titans vs Mumbai Indians
+1422123,Mumbai Indians,D Brevis,46,38,2,3,4,out,121.05,Mumbai Indians vs Gujarat Titans
+1422123,Mumbai Indians,G Coetzee,1,3,0,0,7,out,33.33,Mumbai Indians vs Gujarat Titans
+1422123,Mumbai Indians,HH Pandya,11,4,1,1,8,out,275.0,Mumbai Indians vs Gujarat Titans
+1422123,Mumbai Indians,Ishan Kishan,0,4,0,0,1,out,0.0,Mumbai Indians vs Gujarat Titans
+1422123,Mumbai Indians,JJ Bumrah,1,1,0,0,10,not out,100.0,Mumbai Indians vs Gujarat Titans
+1422123,Mumbai Indians,Naman Dhir,20,10,3,1,2,out,200.0,Mumbai Indians vs Gujarat Titans
+1422123,Mumbai Indians,PP Chawla,0,1,0,0,9,out,0.0,Mumbai Indians vs Gujarat Titans
+1422123,Mumbai Indians,RG Sharma,43,29,7,1,3,out,148.28,Mumbai Indians vs Gujarat Titans
+1422123,Mumbai Indians,SZ Mulani,1,1,0,0,11,not out,100.0,Mumbai Indians vs Gujarat Titans
+1422123,Mumbai Indians,TH David,11,10,1,0,6,out,110.0,Mumbai Indians vs Gujarat Titans
+1422123,Mumbai Indians,Tilak Varma,25,19,1,1,5,out,131.58,Mumbai Indians vs Gujarat Titans
+1422124,Punjab Kings,Harpreet Brar,2,2,0,0,8,not out,100.0,Punjab Kings vs Royal Challengers Bengaluru
+1422124,Punjab Kings,JM Bairstow,8,6,2,0,2,out,133.33,Punjab Kings vs Royal Challengers Bengaluru
+1422124,Punjab Kings,JM Sharma,27,20,1,2,5,out,135.0,Punjab Kings vs Royal Challengers Bengaluru
+1422124,Punjab Kings,LS Livingstone,17,13,1,1,4,out,130.77,Punjab Kings vs Royal Challengers Bengaluru
+1422124,Punjab Kings,P Simran Singh,25,17,2,2,3,out,147.06,Punjab Kings vs Royal Challengers Bengaluru
+1422124,Punjab Kings,S Dhawan,45,37,5,1,1,out,121.62,Punjab Kings vs Royal Challengers Bengaluru
+1422124,Punjab Kings,SM Curran,23,17,3,0,6,out,135.29,Punjab Kings vs Royal Challengers Bengaluru
+1422124,Punjab Kings,Shashank Singh,21,8,1,2,7,not out,262.5,Punjab Kings vs Royal Challengers Bengaluru
+1422124,Royal Challengers Bengaluru,Anuj Rawat,11,14,1,0,6,out,78.57,Royal Challengers Bengaluru vs Punjab Kings
+1422124,Royal Challengers Bengaluru,C Green,3,5,0,0,3,out,60.0,Royal Challengers Bengaluru vs Punjab Kings
+1422124,Royal Challengers Bengaluru,F du Plessis,3,7,0,0,2,out,42.86,Royal Challengers Bengaluru vs Punjab Kings
+1422124,Royal Challengers Bengaluru,GJ Maxwell,3,5,0,0,5,out,60.0,Royal Challengers Bengaluru vs Punjab Kings
+1422124,Royal Challengers Bengaluru,KD Karthik,28,10,3,2,8,not out,280.0,Royal Challengers Bengaluru vs Punjab Kings
+1422124,Royal Challengers Bengaluru,MK Lomror,17,8,2,1,7,not out,212.5,Royal Challengers Bengaluru vs Punjab Kings
+1422124,Royal Challengers Bengaluru,RM Patidar,18,18,1,1,4,out,100.0,Royal Challengers Bengaluru vs Punjab Kings
+1422124,Royal Challengers Bengaluru,V Kohli,77,49,11,2,1,out,157.14,Royal Challengers Bengaluru vs Punjab Kings
+1422125,Chennai Super Kings,AM Rahane,12,12,1,0,3,out,100.0,Chennai Super Kings vs Gujarat Titans
+1422125,Chennai Super Kings,DJ Mitchell,24,20,2,0,5,not out,120.0,Chennai Super Kings vs Gujarat Titans
+1422125,Chennai Super Kings,R Ravindra,46,20,6,3,2,out,230.0,Chennai Super Kings vs Gujarat Titans
+1422125,Chennai Super Kings,RA Jadeja,7,3,1,0,7,out,233.33,Chennai Super Kings vs Gujarat Titans
+1422125,Chennai Super Kings,RD Gaikwad,46,36,5,1,1,out,127.78,Chennai Super Kings vs Gujarat Titans
+1422125,Chennai Super Kings,S Dube,51,23,2,5,4,out,221.74,Chennai Super Kings vs Gujarat Titans
+1422125,Chennai Super Kings,Sameer Rizvi,14,6,0,2,6,out,233.33,Chennai Super Kings vs Gujarat Titans
+1422125,Gujarat Titans,Azmatullah Omarzai,11,10,1,0,6,out,110.0,Gujarat Titans vs Chennai Super Kings
+1422125,Gujarat Titans,B Sai Sudharsan,37,31,3,0,3,out,119.35,Gujarat Titans vs Chennai Super Kings
+1422125,Gujarat Titans,DA Miller,21,16,3,0,5,out,131.25,Gujarat Titans vs Chennai Super Kings
+1422125,Gujarat Titans,R Tewatia,6,11,1,0,7,out,54.55,Gujarat Titans vs Chennai Super Kings
+1422125,Gujarat Titans,Rashid Khan,1,2,0,0,8,out,50.0,Gujarat Titans vs Chennai Super Kings
+1422125,Gujarat Titans,SH Johnson,5,5,1,0,10,not out,100.0,Gujarat Titans vs Chennai Super Kings
+1422125,Gujarat Titans,Shubman Gill,8,5,0,1,2,out,160.0,Gujarat Titans vs Chennai Super Kings
+1422125,Gujarat Titans,UT Yadav,10,11,0,1,9,not out,90.91,Gujarat Titans vs Chennai Super Kings
+1422125,Gujarat Titans,V Shankar,12,12,0,1,4,out,100.0,Gujarat Titans vs Chennai Super Kings
+1422125,Gujarat Titans,WP Saha,21,17,4,0,1,out,123.53,Gujarat Titans vs Chennai Super Kings
+1422126,Sunrisers Hyderabad,AK Markram,42,28,2,1,4,not out,150.0,Sunrisers Hyderabad vs Mumbai Indians
+1422126,Sunrisers Hyderabad,Abhishek Sharma,63,22,3,7,3,out,286.36,Sunrisers Hyderabad vs Mumbai Indians
+1422126,Sunrisers Hyderabad,H Klaasen,79,33,4,7,5,not out,239.39,Sunrisers Hyderabad vs Mumbai Indians
+1422126,Sunrisers Hyderabad,MA Agarwal,11,13,1,0,1,out,84.62,Sunrisers Hyderabad vs Mumbai Indians
+1422126,Sunrisers Hyderabad,TM Head,62,24,9,3,2,out,258.33,Sunrisers Hyderabad vs Mumbai Indians
+1422126,Mumbai Indians,HH Pandya,24,20,1,1,5,out,120.0,Mumbai Indians vs Sunrisers Hyderabad
+1422126,Mumbai Indians,Ishan Kishan,34,13,2,4,2,out,261.54,Mumbai Indians vs Sunrisers Hyderabad
+1422126,Mumbai Indians,Naman Dhir,30,14,2,2,3,out,214.29,Mumbai Indians vs Sunrisers Hyderabad
+1422126,Mumbai Indians,R Shepherd,15,6,2,1,7,not out,250.0,Mumbai Indians vs Sunrisers Hyderabad
+1422126,Mumbai Indians,RG Sharma,26,12,1,3,1,out,216.67,Mumbai Indians vs Sunrisers Hyderabad
+1422126,Mumbai Indians,TH David,42,22,2,3,6,not out,190.91,Mumbai Indians vs Sunrisers Hyderabad
+1422126,Mumbai Indians,Tilak Varma,63,33,2,6,4,out,190.91,Mumbai Indians vs Sunrisers Hyderabad
+1422127,Rajasthan Royals,Dhruv Jurel,20,12,3,0,6,out,166.67,Rajasthan Royals vs Delhi Capitals
+1422127,Rajasthan Royals,JC Buttler,11,16,0,0,2,out,68.75,Rajasthan Royals vs Delhi Capitals
+1422127,Rajasthan Royals,R Ashwin,29,19,0,3,5,out,152.63,Rajasthan Royals vs Delhi Capitals
+1422127,Rajasthan Royals,R Parag,84,45,7,6,4,not out,186.67,Rajasthan Royals vs Delhi Capitals
+1422127,Rajasthan Royals,SO Hetmyer,14,7,1,1,7,not out,200.0,Rajasthan Royals vs Delhi Capitals
+1422127,Rajasthan Royals,SV Samson,15,14,3,0,3,out,107.14,Rajasthan Royals vs Delhi Capitals
+1422127,Rajasthan Royals,YBK Jaiswal,5,7,1,0,1,out,71.43,Rajasthan Royals vs Delhi Capitals
+1422127,Delhi Capitals,AR Patel,15,13,1,0,7,not out,115.38,Delhi Capitals vs Rajasthan Royals
+1422127,Delhi Capitals,Abishek Porel,9,10,0,0,6,out,90.0,Delhi Capitals vs Rajasthan Royals
+1422127,Delhi Capitals,DA Warner,49,34,5,3,1,out,144.12,Delhi Capitals vs Rajasthan Royals
+1422127,Delhi Capitals,MR Marsh,23,12,5,0,2,out,191.67,Delhi Capitals vs Rajasthan Royals
+1422127,Delhi Capitals,RK Bhui,0,2,0,0,3,out,0.0,Delhi Capitals vs Rajasthan Royals
+1422127,Delhi Capitals,RR Pant,28,26,2,1,4,out,107.69,Delhi Capitals vs Rajasthan Royals
+1422127,Delhi Capitals,T Stubbs,44,23,2,3,5,not out,191.3,Delhi Capitals vs Rajasthan Royals
+1422128,Royal Challengers Bengaluru,Anuj Rawat,3,3,0,0,6,out,100.0,Royal Challengers Bengaluru vs Kolkata Knight Riders
+1422128,Royal Challengers Bengaluru,C Green,33,21,4,2,3,out,157.14,Royal Challengers Bengaluru vs Kolkata Knight Riders
+1422128,Royal Challengers Bengaluru,F du Plessis,8,6,0,1,2,out,133.33,Royal Challengers Bengaluru vs Kolkata Knight Riders
+1422128,Royal Challengers Bengaluru,GJ Maxwell,28,19,3,1,4,out,147.37,Royal Challengers Bengaluru vs Kolkata Knight Riders
+1422128,Royal Challengers Bengaluru,KD Karthik,20,8,0,3,7,out,250.0,Royal Challengers Bengaluru vs Kolkata Knight Riders
+1422128,Royal Challengers Bengaluru,RM Patidar,3,4,0,0,5,out,75.0,Royal Challengers Bengaluru vs Kolkata Knight Riders
+1422128,Royal Challengers Bengaluru,V Kohli,83,59,4,4,1,not out,140.68,Royal Challengers Bengaluru vs Kolkata Knight Riders
+1422128,Kolkata Knight Riders,PD Salt,30,20,2,2,1,out,150.0,Kolkata Knight Riders vs Royal Challengers Bengaluru
+1422128,Kolkata Knight Riders,RK Singh,5,5,0,0,5,not out,100.0,Kolkata Knight Riders vs Royal Challengers Bengaluru
+1422128,Kolkata Knight Riders,SP Narine,47,22,2,5,2,out,213.64,Kolkata Knight Riders vs Royal Challengers Bengaluru
+1422128,Kolkata Knight Riders,SS Iyer,39,24,2,2,4,not out,162.5,Kolkata Knight Riders vs Royal Challengers Bengaluru
+1422128,Kolkata Knight Riders,VR Iyer,50,30,3,4,3,out,166.67,Kolkata Knight Riders vs Royal Challengers Bengaluru
+1422129,Lucknow Super Giants,A Badoni,8,10,0,0,6,out,80.0,Lucknow Super Giants vs Punjab Kings
+1422129,Lucknow Super Giants,D Padikkal,9,6,2,0,3,out,150.0,Lucknow Super Giants vs Punjab Kings
+1422129,Lucknow Super Giants,KH Pandya,43,22,4,2,7,not out,195.45,Lucknow Super Giants vs Punjab Kings
+1422129,Lucknow Super Giants,KL Rahul,15,9,1,1,2,out,166.67,Lucknow Super Giants vs Punjab Kings
+1422129,Lucknow Super Giants,MP Stoinis,19,12,0,2,4,out,158.33,Lucknow Super Giants vs Punjab Kings
+1422129,Lucknow Super Giants,Mohsin Khan,2,1,0,0,9,out,200.0,Lucknow Super Giants vs Punjab Kings
+1422129,Lucknow Super Giants,N Pooran,42,21,3,3,5,out,200.0,Lucknow Super Giants vs Punjab Kings
+1422129,Lucknow Super Giants,Q de Kock,54,38,5,2,1,out,142.11,Lucknow Super Giants vs Punjab Kings
+1422129,Lucknow Super Giants,Ravi Bishnoi,0,1,0,0,8,out,0.0,Lucknow Super Giants vs Punjab Kings
+1422129,Punjab Kings,JM Bairstow,42,29,3,3,2,out,144.83,Punjab Kings vs Lucknow Super Giants
+1422129,Punjab Kings,JM Sharma,6,9,1,0,4,out,66.67,Punjab Kings vs Lucknow Super Giants
+1422129,Punjab Kings,LS Livingstone,28,17,2,2,5,not out,164.71,Punjab Kings vs Lucknow Super Giants
+1422129,Punjab Kings,P Simran Singh,19,7,1,2,3,out,271.43,Punjab Kings vs Lucknow Super Giants
+1422129,Punjab Kings,S Dhawan,70,50,7,3,1,out,140.0,Punjab Kings vs Lucknow Super Giants
+1422129,Punjab Kings,SM Curran,0,1,0,0,6,out,0.0,Punjab Kings vs Lucknow Super Giants
+1422129,Punjab Kings,Shashank Singh,9,7,1,0,7,not out,128.57,Punjab Kings vs Lucknow Super Giants
+1422130,Sunrisers Hyderabad,AK Markram,17,19,0,0,4,out,89.47,Sunrisers Hyderabad vs Gujarat Titans
+1422130,Sunrisers Hyderabad,Abdul Samad,29,14,3,1,7,out,207.14,Sunrisers Hyderabad vs Gujarat Titans
+1422130,Sunrisers Hyderabad,Abhishek Sharma,29,20,2,2,3,out,145.0,Sunrisers Hyderabad vs Gujarat Titans
+1422130,Sunrisers Hyderabad,H Klaasen,24,13,1,2,5,out,184.62,Sunrisers Hyderabad vs Gujarat Titans
+1422130,Sunrisers Hyderabad,MA Agarwal,16,17,2,0,1,out,94.12,Sunrisers Hyderabad vs Gujarat Titans
+1422130,Sunrisers Hyderabad,PJ Cummins,2,2,0,0,9,not out,100.0,Sunrisers Hyderabad vs Gujarat Titans
+1422130,Sunrisers Hyderabad,Shahbaz Ahmed,22,20,1,1,6,out,110.0,Sunrisers Hyderabad vs Gujarat Titans
+1422130,Sunrisers Hyderabad,TM Head,19,14,3,0,2,out,135.71,Sunrisers Hyderabad vs Gujarat Titans
+1422130,Sunrisers Hyderabad,Washington Sundar,0,1,0,0,8,out,0.0,Sunrisers Hyderabad vs Gujarat Titans
+1422130,Gujarat Titans,B Sai Sudharsan,45,36,4,1,3,out,125.0,Gujarat Titans vs Sunrisers Hyderabad
+1422130,Gujarat Titans,DA Miller,44,27,4,2,4,not out,162.96,Gujarat Titans vs Sunrisers Hyderabad
+1422130,Gujarat Titans,Shubman Gill,36,28,2,1,2,out,128.57,Gujarat Titans vs Sunrisers Hyderabad
+1422130,Gujarat Titans,V Shankar,14,11,2,0,5,not out,127.27,Gujarat Titans vs Sunrisers Hyderabad
+1422130,Gujarat Titans,WP Saha,25,13,1,2,1,out,192.31,Gujarat Titans vs Sunrisers Hyderabad
+1422131,Delhi Capitals,AR Patel,7,8,0,0,6,not out,87.5,Delhi Capitals vs Chennai Super Kings
+1422131,Delhi Capitals,Abishek Porel,8,5,1,0,7,not out,160.0,Delhi Capitals vs Chennai Super Kings
+1422131,Delhi Capitals,DA Warner,52,35,5,3,2,out,148.57,Delhi Capitals vs Chennai Super Kings
+1422131,Delhi Capitals,MR Marsh,18,12,2,1,4,out,150.0,Delhi Capitals vs Chennai Super Kings
+1422131,Delhi Capitals,PP Shaw,43,27,4,2,1,out,159.26,Delhi Capitals vs Chennai Super Kings
+1422131,Delhi Capitals,RR Pant,51,32,4,3,3,out,159.38,Delhi Capitals vs Chennai Super Kings
+1422131,Delhi Capitals,T Stubbs,0,2,0,0,5,out,0.0,Delhi Capitals vs Chennai Super Kings
+1422131,Chennai Super Kings,AM Rahane,45,30,5,2,3,out,150.0,Chennai Super Kings vs Delhi Capitals
+1422131,Chennai Super Kings,DJ Mitchell,34,26,1,2,4,out,130.77,Chennai Super Kings vs Delhi Capitals
+1422131,Chennai Super Kings,MS Dhoni,37,16,4,3,8,not out,231.25,Chennai Super Kings vs Delhi Capitals
+1422131,Chennai Super Kings,R Ravindra,2,12,0,0,2,out,16.67,Chennai Super Kings vs Delhi Capitals
+1422131,Chennai Super Kings,RA Jadeja,21,17,2,0,7,not out,123.53,Chennai Super Kings vs Delhi Capitals
+1422131,Chennai Super Kings,RD Gaikwad,1,2,0,0,1,out,50.0,Chennai Super Kings vs Delhi Capitals
+1422131,Chennai Super Kings,S Dube,17,16,1,0,5,out,106.25,Chennai Super Kings vs Delhi Capitals
+1422131,Chennai Super Kings,Sameer Rizvi,0,1,0,0,6,out,0.0,Chennai Super Kings vs Delhi Capitals
+1422132,Mumbai Indians,Akash Madhwal,4,5,0,0,11,not out,80.0,Mumbai Indians vs Rajasthan Royals
+1422132,Mumbai Indians,D Brevis,0,1,0,0,4,out,0.0,Mumbai Indians vs Rajasthan Royals
+1422132,Mumbai Indians,G Coetzee,4,9,0,0,9,out,44.44,Mumbai Indians vs Rajasthan Royals
+1422132,Mumbai Indians,HH Pandya,34,21,6,0,6,out,161.9,Mumbai Indians vs Rajasthan Royals
+1422132,Mumbai Indians,Ishan Kishan,16,14,2,1,1,out,114.29,Mumbai Indians vs Rajasthan Royals
+1422132,Mumbai Indians,JJ Bumrah,8,9,1,0,10,not out,88.89,Mumbai Indians vs Rajasthan Royals
+1422132,Mumbai Indians,Naman Dhir,0,1,0,0,3,out,0.0,Mumbai Indians vs Rajasthan Royals
+1422132,Mumbai Indians,PP Chawla,3,6,0,0,7,out,50.0,Mumbai Indians vs Rajasthan Royals
+1422132,Mumbai Indians,RG Sharma,0,1,0,0,2,out,0.0,Mumbai Indians vs Rajasthan Royals
+1422132,Mumbai Indians,TH David,17,24,1,0,8,out,70.83,Mumbai Indians vs Rajasthan Royals
+1422132,Mumbai Indians,Tilak Varma,32,29,0,2,5,out,110.34,Mumbai Indians vs Rajasthan Royals
+1422132,Rajasthan Royals,JC Buttler,13,16,2,0,2,out,81.25,Rajasthan Royals vs Mumbai Indians
+1422132,Rajasthan Royals,R Ashwin,16,16,1,0,5,out,100.0,Rajasthan Royals vs Mumbai Indians
+1422132,Rajasthan Royals,R Parag,54,39,5,3,4,not out,138.46,Rajasthan Royals vs Mumbai Indians
+1422132,Rajasthan Royals,SB Dubey,8,6,1,0,6,not out,133.33,Rajasthan Royals vs Mumbai Indians
+1422132,Rajasthan Royals,SV Samson,12,10,3,0,3,out,120.0,Rajasthan Royals vs Mumbai Indians
+1422132,Rajasthan Royals,YBK Jaiswal,10,6,2,0,1,out,166.67,Rajasthan Royals vs Mumbai Indians
+1422133,Lucknow Super Giants,A Badoni,0,3,0,0,6,out,0.0,Lucknow Super Giants vs Royal Challengers Bengaluru
+1422133,Lucknow Super Giants,D Padikkal,6,11,0,0,3,out,54.55,Lucknow Super Giants vs Royal Challengers Bengaluru
+1422133,Lucknow Super Giants,KL Rahul,20,14,0,2,2,out,142.86,Lucknow Super Giants vs Royal Challengers Bengaluru
+1422133,Lucknow Super Giants,MP Stoinis,24,15,1,2,4,out,160.0,Lucknow Super Giants vs Royal Challengers Bengaluru
+1422133,Lucknow Super Giants,N Pooran,40,21,1,5,5,not out,190.48,Lucknow Super Giants vs Royal Challengers Bengaluru
+1422133,Lucknow Super Giants,Q de Kock,81,56,8,5,1,out,144.64,Lucknow Super Giants vs Royal Challengers Bengaluru
+1422133,Royal Challengers Bengaluru,Anuj Rawat,11,21,0,0,6,out,52.38,Royal Challengers Bengaluru vs Lucknow Super Giants
+1422133,Royal Challengers Bengaluru,C Green,9,9,1,0,5,out,100.0,Royal Challengers Bengaluru vs Lucknow Super Giants
+1422133,Royal Challengers Bengaluru,F du Plessis,19,13,3,0,2,out,146.15,Royal Challengers Bengaluru vs Lucknow Super Giants
+1422133,Royal Challengers Bengaluru,GJ Maxwell,0,2,0,0,4,out,0.0,Royal Challengers Bengaluru vs Lucknow Super Giants
+1422133,Royal Challengers Bengaluru,KD Karthik,4,8,0,0,8,out,50.0,Royal Challengers Bengaluru vs Lucknow Super Giants
+1422133,Royal Challengers Bengaluru,MK Lomror,33,13,3,3,7,out,253.85,Royal Challengers Bengaluru vs Lucknow Super Giants
+1422133,Royal Challengers Bengaluru,Mayank Dagar,0,1,0,0,9,out,0.0,Royal Challengers Bengaluru vs Lucknow Super Giants
+1422133,Royal Challengers Bengaluru,Mohammed Siraj,12,8,0,2,11,out,150.0,Royal Challengers Bengaluru vs Lucknow Super Giants
+1422133,Royal Challengers Bengaluru,RJW Topley,3,6,0,0,10,not out,50.0,Royal Challengers Bengaluru vs Lucknow Super Giants
+1422133,Royal Challengers Bengaluru,RM Patidar,29,21,2,2,3,out,138.1,Royal Challengers Bengaluru vs Lucknow Super Giants
+1422133,Royal Challengers Bengaluru,V Kohli,22,16,2,1,1,out,137.5,Royal Challengers Bengaluru vs Lucknow Super Giants
+1422134,Kolkata Knight Riders,A Raghuvanshi,54,27,5,3,3,out,200.0,Kolkata Knight Riders vs Delhi Capitals
+1422134,Kolkata Knight Riders,AD Russell,41,19,4,3,4,out,215.79,Kolkata Knight Riders vs Delhi Capitals
+1422134,Kolkata Knight Riders,MA Starc,1,1,0,0,8,not out,100.0,Kolkata Knight Riders vs Delhi Capitals
+1422134,Kolkata Knight Riders,PD Salt,18,12,4,0,1,out,150.0,Kolkata Knight Riders vs Delhi Capitals
+1422134,Kolkata Knight Riders,RK Singh,25,7,1,3,6,out,357.14,Kolkata Knight Riders vs Delhi Capitals
+1422134,Kolkata Knight Riders,Ramandeep Singh,2,2,0,0,7,out,100.0,Kolkata Knight Riders vs Delhi Capitals
+1422134,Kolkata Knight Riders,SP Narine,85,39,7,7,2,out,217.95,Kolkata Knight Riders vs Delhi Capitals
+1422134,Kolkata Knight Riders,SS Iyer,18,11,0,2,5,out,163.64,Kolkata Knight Riders vs Delhi Capitals
+1422134,Kolkata Knight Riders,VR Iyer,5,2,1,0,9,not out,250.0,Kolkata Knight Riders vs Delhi Capitals
+1422134,Delhi Capitals,A Nortje,4,6,0,0,10,out,66.67,Delhi Capitals vs Kolkata Knight Riders
+1422134,Delhi Capitals,AR Patel,0,1,0,0,7,out,0.0,Delhi Capitals vs Kolkata Knight Riders
+1422134,Delhi Capitals,Abishek Porel,0,5,0,0,4,out,0.0,Delhi Capitals vs Kolkata Knight Riders
+1422134,Delhi Capitals,DA Warner,18,13,2,1,1,out,138.46,Delhi Capitals vs Kolkata Knight Riders
+1422134,Delhi Capitals,I Sharma,1,3,0,0,11,not out,33.33,Delhi Capitals vs Kolkata Knight Riders
+1422134,Delhi Capitals,MR Marsh,0,2,0,0,3,out,0.0,Delhi Capitals vs Kolkata Knight Riders
+1422134,Delhi Capitals,PP Shaw,10,7,2,0,2,out,142.86,Delhi Capitals vs Kolkata Knight Riders
+1422134,Delhi Capitals,RR Pant,55,25,4,5,6,out,220.0,Delhi Capitals vs Kolkata Knight Riders
+1422134,Delhi Capitals,Rasikh Salam,1,5,0,0,9,out,20.0,Delhi Capitals vs Kolkata Knight Riders
+1422134,Delhi Capitals,Sumit Kumar,7,6,0,1,8,out,116.67,Delhi Capitals vs Kolkata Knight Riders
+1422134,Delhi Capitals,T Stubbs,54,32,4,4,5,out,168.75,Delhi Capitals vs Kolkata Knight Riders
+1422135,Gujarat Titans,B Sai Sudharsan,33,19,6,0,4,out,173.68,Gujarat Titans vs Punjab Kings
+1422135,Gujarat Titans,KS Williamson,26,22,4,0,3,out,118.18,Gujarat Titans vs Punjab Kings
+1422135,Gujarat Titans,R Tewatia,23,8,3,1,6,not out,287.5,Gujarat Titans vs Punjab Kings
+1422135,Gujarat Titans,Shubman Gill,89,48,6,4,2,not out,185.42,Gujarat Titans vs Punjab Kings
+1422135,Gujarat Titans,V Shankar,8,10,0,0,5,out,80.0,Gujarat Titans vs Punjab Kings
+1422135,Gujarat Titans,WP Saha,11,13,2,0,1,out,84.62,Gujarat Titans vs Punjab Kings
+1422135,Punjab Kings,Ashutosh Sharma,31,17,3,1,8,out,182.35,Punjab Kings vs Gujarat Titans
+1422135,Punjab Kings,Harpreet Brar,1,2,0,0,9,not out,50.0,Punjab Kings vs Gujarat Titans
+1422135,Punjab Kings,JM Bairstow,22,13,4,0,2,out,169.23,Punjab Kings vs Gujarat Titans
+1422135,Punjab Kings,JM Sharma,16,8,0,2,7,out,200.0,Punjab Kings vs Gujarat Titans
+1422135,Punjab Kings,P Simran Singh,35,24,5,1,3,out,145.83,Punjab Kings vs Gujarat Titans
+1422135,Punjab Kings,S Dhawan,1,2,0,0,1,out,50.0,Punjab Kings vs Gujarat Titans
+1422135,Punjab Kings,SM Curran,5,8,0,0,4,out,62.5,Punjab Kings vs Gujarat Titans
+1422135,Punjab Kings,Shashank Singh,61,29,6,4,6,not out,210.34,Punjab Kings vs Gujarat Titans
+1422135,Punjab Kings,Sikandar Raza,15,16,0,0,5,out,93.75,Punjab Kings vs Gujarat Titans
+1422136,Chennai Super Kings,AM Rahane,35,30,2,1,3,out,116.67,Chennai Super Kings vs Sunrisers Hyderabad
+1422136,Chennai Super Kings,DJ Mitchell,13,11,1,0,6,out,118.18,Chennai Super Kings vs Sunrisers Hyderabad
+1422136,Chennai Super Kings,MS Dhoni,1,2,0,0,7,not out,50.0,Chennai Super Kings vs Sunrisers Hyderabad
+1422136,Chennai Super Kings,R Ravindra,12,9,2,0,1,out,133.33,Chennai Super Kings vs Sunrisers Hyderabad
+1422136,Chennai Super Kings,RA Jadeja,31,23,4,0,5,not out,134.78,Chennai Super Kings vs Sunrisers Hyderabad
+1422136,Chennai Super Kings,RD Gaikwad,26,21,3,1,2,out,123.81,Chennai Super Kings vs Sunrisers Hyderabad
+1422136,Chennai Super Kings,S Dube,45,24,2,4,4,out,187.5,Chennai Super Kings vs Sunrisers Hyderabad
+1422136,Sunrisers Hyderabad,AK Markram,50,36,4,1,3,out,138.89,Sunrisers Hyderabad vs Chennai Super Kings
+1422136,Sunrisers Hyderabad,Abhishek Sharma,31,11,3,3,2,out,281.82,Sunrisers Hyderabad vs Chennai Super Kings
+1422136,Sunrisers Hyderabad,H Klaasen,10,11,1,0,5,not out,90.91,Sunrisers Hyderabad vs Chennai Super Kings
+1422136,Sunrisers Hyderabad,Nithish Kumar Reddy,14,8,1,1,6,not out,175.0,Sunrisers Hyderabad vs Chennai Super Kings
+1422136,Sunrisers Hyderabad,Shahbaz Ahmed,18,19,0,1,4,out,94.74,Sunrisers Hyderabad vs Chennai Super Kings
+1422136,Sunrisers Hyderabad,TM Head,31,24,3,1,1,out,129.17,Sunrisers Hyderabad vs Chennai Super Kings
+1422137,Royal Challengers Bengaluru,C Green,5,6,0,0,5,not out,83.33,Royal Challengers Bengaluru vs Rajasthan Royals
+1422137,Royal Challengers Bengaluru,F du Plessis,44,33,2,2,2,out,133.33,Royal Challengers Bengaluru vs Rajasthan Royals
+1422137,Royal Challengers Bengaluru,GJ Maxwell,1,3,0,0,3,out,33.33,Royal Challengers Bengaluru vs Rajasthan Royals
+1422137,Royal Challengers Bengaluru,Saurav Chauhan,9,6,0,1,4,out,150.0,Royal Challengers Bengaluru vs Rajasthan Royals
+1422137,Royal Challengers Bengaluru,V Kohli,113,72,12,4,1,not out,156.94,Royal Challengers Bengaluru vs Rajasthan Royals
+1422137,Rajasthan Royals,Dhruv Jurel,2,3,0,0,5,out,66.67,Rajasthan Royals vs Royal Challengers Bengaluru
+1422137,Rajasthan Royals,JC Buttler,100,58,9,4,3,not out,172.41,Rajasthan Royals vs Royal Challengers Bengaluru
+1422137,Rajasthan Royals,R Parag,4,4,1,0,4,out,100.0,Rajasthan Royals vs Royal Challengers Bengaluru
+1422137,Rajasthan Royals,SO Hetmyer,11,6,2,0,6,not out,183.33,Rajasthan Royals vs Royal Challengers Bengaluru
+1422137,Rajasthan Royals,SV Samson,69,42,8,2,2,out,164.29,Rajasthan Royals vs Royal Challengers Bengaluru
+1422137,Rajasthan Royals,YBK Jaiswal,0,2,0,0,1,out,0.0,Rajasthan Royals vs Royal Challengers Bengaluru
+1422138,Mumbai Indians,HH Pandya,39,33,3,1,4,out,118.18,Mumbai Indians vs Delhi Capitals
+1422138,Mumbai Indians,Ishan Kishan,42,23,4,2,2,out,182.61,Mumbai Indians vs Delhi Capitals
+1422138,Mumbai Indians,R Shepherd,39,10,3,4,7,not out,390.0,Mumbai Indians vs Delhi Capitals
+1422138,Mumbai Indians,RG Sharma,49,27,6,3,1,out,181.48,Mumbai Indians vs Delhi Capitals
+1422138,Mumbai Indians,SA Yadav,0,2,0,0,3,out,0.0,Mumbai Indians vs Delhi Capitals
+1422138,Mumbai Indians,TH David,39,20,2,3,6,not out,195.0,Mumbai Indians vs Delhi Capitals
+1422138,Mumbai Indians,Tilak Varma,6,5,1,0,5,out,120.0,Mumbai Indians vs Delhi Capitals
+1422138,Delhi Capitals,AR Patel,8,7,1,0,6,out,114.29,Delhi Capitals vs Mumbai Indians
+1422138,Delhi Capitals,Abishek Porel,41,31,5,0,3,out,132.26,Delhi Capitals vs Mumbai Indians
+1422138,Delhi Capitals,DA Warner,10,8,1,1,2,out,125.0,Delhi Capitals vs Mumbai Indians
+1422138,Delhi Capitals,JA Richardson,2,2,0,0,9,out,100.0,Delhi Capitals vs Mumbai Indians
+1422138,Delhi Capitals,Kumar Kushagra,0,1,0,0,8,out,0.0,Delhi Capitals vs Mumbai Indians
+1422138,Delhi Capitals,Lalit Yadav,3,4,0,0,7,out,75.0,Delhi Capitals vs Mumbai Indians
+1422138,Delhi Capitals,PP Shaw,66,40,8,3,1,out,165.0,Delhi Capitals vs Mumbai Indians
+1422138,Delhi Capitals,RR Pant,1,3,0,0,5,out,33.33,Delhi Capitals vs Mumbai Indians
+1422138,Delhi Capitals,T Stubbs,65,24,3,6,4,not out,270.83,Delhi Capitals vs Mumbai Indians
+1422139,Lucknow Super Giants,A Badoni,20,11,3,0,6,out,181.82,Lucknow Super Giants vs Gujarat Titans
+1422139,Lucknow Super Giants,D Padikkal,7,7,1,0,2,out,100.0,Lucknow Super Giants vs Gujarat Titans
+1422139,Lucknow Super Giants,KH Pandya,2,2,0,0,7,not out,100.0,Lucknow Super Giants vs Gujarat Titans
+1422139,Lucknow Super Giants,KL Rahul,33,31,3,0,3,out,106.45,Lucknow Super Giants vs Gujarat Titans
+1422139,Lucknow Super Giants,MP Stoinis,58,43,4,2,4,out,134.88,Lucknow Super Giants vs Gujarat Titans
+1422139,Lucknow Super Giants,N Pooran,32,22,0,3,5,not out,145.45,Lucknow Super Giants vs Gujarat Titans
+1422139,Lucknow Super Giants,Q de Kock,6,4,0,1,1,out,150.0,Lucknow Super Giants vs Gujarat Titans
+1422139,Gujarat Titans,B Sai Sudharsan,27,21,4,0,1,out,128.57,Gujarat Titans vs Lucknow Super Giants
+1422139,Gujarat Titans,BR Sharath,2,5,0,0,4,out,40.0,Gujarat Titans vs Lucknow Super Giants
+1422139,Gujarat Titans,DG Nalkande,12,11,0,1,6,out,109.09,Gujarat Titans vs Lucknow Super Giants
+1422139,Gujarat Titans,KS Williamson,1,5,0,0,3,out,20.0,Gujarat Titans vs Lucknow Super Giants
+1422139,Gujarat Titans,Noor Ahmad,4,2,1,0,11,out,200.0,Gujarat Titans vs Lucknow Super Giants
+1422139,Gujarat Titans,R Tewatia,28,24,2,2,7,out,116.67,Gujarat Titans vs Lucknow Super Giants
+1422139,Gujarat Titans,Rashid Khan,0,3,0,0,8,out,0.0,Gujarat Titans vs Lucknow Super Giants
+1422139,Gujarat Titans,SH Johnson,0,1,0,0,10,not out,0.0,Gujarat Titans vs Lucknow Super Giants
+1422139,Gujarat Titans,Shubman Gill,19,21,2,0,2,out,90.48,Gujarat Titans vs Lucknow Super Giants
+1422139,Gujarat Titans,UT Yadav,2,4,0,0,9,out,50.0,Gujarat Titans vs Lucknow Super Giants
+1422139,Gujarat Titans,V Shankar,17,17,0,1,5,out,100.0,Gujarat Titans vs Lucknow Super Giants
+1426260,Kolkata Knight Riders,A Raghuvanshi,24,18,3,1,2,out,133.33,Kolkata Knight Riders vs Chennai Super Kings
+1426260,Kolkata Knight Riders,AD Russell,6,9,1,0,8,out,66.67,Kolkata Knight Riders vs Chennai Super Kings
+1426260,Kolkata Knight Riders,AS Roy,3,3,0,0,9,not out,100.0,Kolkata Knight Riders vs Chennai Super Kings
+1426260,Kolkata Knight Riders,MA Starc,0,3,0,0,10,out,0.0,Kolkata Knight Riders vs Chennai Super Kings
+1426260,Kolkata Knight Riders,PD Salt,0,1,0,0,1,out,0.0,Kolkata Knight Riders vs Chennai Super Kings
+1426260,Kolkata Knight Riders,RK Singh,9,13,0,0,7,out,69.23,Kolkata Knight Riders vs Chennai Super Kings
+1426260,Kolkata Knight Riders,Ramandeep Singh,13,12,0,1,6,out,108.33,Kolkata Knight Riders vs Chennai Super Kings
+1426260,Kolkata Knight Riders,SP Narine,27,20,3,2,3,out,135.0,Kolkata Knight Riders vs Chennai Super Kings
+1426260,Kolkata Knight Riders,SS Iyer,34,32,3,0,4,out,106.25,Kolkata Knight Riders vs Chennai Super Kings
+1426260,Kolkata Knight Riders,VG Arora,1,1,0,0,11,not out,100.0,Kolkata Knight Riders vs Chennai Super Kings
+1426260,Kolkata Knight Riders,VR Iyer,3,8,0,0,5,out,37.5,Kolkata Knight Riders vs Chennai Super Kings
+1426260,Chennai Super Kings,DJ Mitchell,25,19,1,1,3,out,131.58,Chennai Super Kings vs Kolkata Knight Riders
+1426260,Chennai Super Kings,MS Dhoni,1,3,0,0,5,not out,33.33,Chennai Super Kings vs Kolkata Knight Riders
+1426260,Chennai Super Kings,R Ravindra,15,8,3,0,1,out,187.5,Chennai Super Kings vs Kolkata Knight Riders
+1426260,Chennai Super Kings,RD Gaikwad,67,58,9,0,2,not out,115.52,Chennai Super Kings vs Kolkata Knight Riders
+1426260,Chennai Super Kings,S Dube,28,18,1,3,4,out,155.56,Chennai Super Kings vs Kolkata Knight Riders
+1426261,Sunrisers Hyderabad,AK Markram,0,2,0,0,3,out,0.0,Sunrisers Hyderabad vs Punjab Kings
+1426261,Sunrisers Hyderabad,Abdul Samad,25,12,5,0,7,out,208.33,Sunrisers Hyderabad vs Punjab Kings
+1426261,Sunrisers Hyderabad,Abhishek Sharma,16,11,2,1,2,out,145.45,Sunrisers Hyderabad vs Punjab Kings
+1426261,Sunrisers Hyderabad,B Kumar,6,8,0,0,10,out,75.0,Sunrisers Hyderabad vs Punjab Kings
+1426261,Sunrisers Hyderabad,H Klaasen,9,9,1,0,6,out,100.0,Sunrisers Hyderabad vs Punjab Kings
+1426261,Sunrisers Hyderabad,JD Unadkat,6,1,0,1,11,not out,600.0,Sunrisers Hyderabad vs Punjab Kings
+1426261,Sunrisers Hyderabad,Nithish Kumar Reddy,64,37,4,5,4,out,172.97,Sunrisers Hyderabad vs Punjab Kings
+1426261,Sunrisers Hyderabad,PJ Cummins,3,4,0,0,9,out,75.0,Sunrisers Hyderabad vs Punjab Kings
+1426261,Sunrisers Hyderabad,RA Tripathi,11,14,1,0,5,out,78.57,Sunrisers Hyderabad vs Punjab Kings
+1426261,Sunrisers Hyderabad,Shahbaz Ahmed,14,7,1,1,8,not out,200.0,Sunrisers Hyderabad vs Punjab Kings
+1426261,Sunrisers Hyderabad,TM Head,21,15,4,0,1,out,140.0,Sunrisers Hyderabad vs Punjab Kings
+1426261,Punjab Kings,Ashutosh Sharma,33,15,3,2,8,not out,220.0,Punjab Kings vs Sunrisers Hyderabad
+1426261,Punjab Kings,JM Bairstow,0,3,0,0,2,out,0.0,Punjab Kings vs Sunrisers Hyderabad
+1426261,Punjab Kings,JM Sharma,19,11,1,1,7,out,172.73,Punjab Kings vs Sunrisers Hyderabad
+1426261,Punjab Kings,P Simran Singh,4,6,1,0,3,out,66.67,Punjab Kings vs Sunrisers Hyderabad
+1426261,Punjab Kings,S Dhawan,14,16,2,0,1,out,87.5,Punjab Kings vs Sunrisers Hyderabad
+1426261,Punjab Kings,SM Curran,29,22,2,2,4,out,131.82,Punjab Kings vs Sunrisers Hyderabad
+1426261,Punjab Kings,Shashank Singh,46,25,6,1,6,not out,184.0,Punjab Kings vs Sunrisers Hyderabad
+1426261,Punjab Kings,Sikandar Raza,28,22,2,2,5,out,127.27,Punjab Kings vs Sunrisers Hyderabad
+1426262,Rajasthan Royals,JC Buttler,8,10,0,0,2,out,80.0,Rajasthan Royals vs Gujarat Titans
+1426262,Rajasthan Royals,R Parag,76,48,3,5,4,out,158.33,Rajasthan Royals vs Gujarat Titans
+1426262,Rajasthan Royals,SO Hetmyer,13,5,1,1,5,not out,260.0,Rajasthan Royals vs Gujarat Titans
+1426262,Rajasthan Royals,SV Samson,68,38,7,2,3,not out,178.95,Rajasthan Royals vs Gujarat Titans
+1426262,Rajasthan Royals,YBK Jaiswal,24,19,5,0,1,out,126.32,Rajasthan Royals vs Gujarat Titans
+1426262,Gujarat Titans,A Manohar,1,2,0,0,4,out,50.0,Gujarat Titans vs Rajasthan Royals
+1426262,Gujarat Titans,B Sai Sudharsan,35,29,3,1,1,out,120.69,Gujarat Titans vs Rajasthan Royals
+1426262,Gujarat Titans,M Shahrukh Khan,14,8,1,1,7,out,175.0,Gujarat Titans vs Rajasthan Royals
+1426262,Gujarat Titans,MS Wade,4,6,0,0,3,out,66.67,Gujarat Titans vs Rajasthan Royals
+1426262,Gujarat Titans,R Tewatia,22,11,3,0,6,out,200.0,Gujarat Titans vs Rajasthan Royals
+1426262,Gujarat Titans,Rashid Khan,20,10,3,0,8,not out,200.0,Gujarat Titans vs Rajasthan Royals
+1426262,Gujarat Titans,Shubman Gill,72,44,6,2,2,not out,163.64,Gujarat Titans vs Rajasthan Royals
+1426262,Gujarat Titans,V Shankar,16,10,3,0,5,out,160.0,Gujarat Titans vs Rajasthan Royals
+1426263,Royal Challengers Bengaluru,Akash Deep,2,2,0,0,10,not out,100.0,Royal Challengers Bengaluru vs Mumbai Indians
+1426263,Royal Challengers Bengaluru,F du Plessis,61,40,4,3,2,out,152.5,Royal Challengers Bengaluru vs Mumbai Indians
+1426263,Royal Challengers Bengaluru,GJ Maxwell,0,4,0,0,5,out,0.0,Royal Challengers Bengaluru vs Mumbai Indians
+1426263,Royal Challengers Bengaluru,KD Karthik,53,23,5,4,6,not out,230.43,Royal Challengers Bengaluru vs Mumbai Indians
+1426263,Royal Challengers Bengaluru,MK Lomror,0,1,0,0,7,out,0.0,Royal Challengers Bengaluru vs Mumbai Indians
+1426263,Royal Challengers Bengaluru,RM Patidar,50,26,3,4,4,out,192.31,Royal Challengers Bengaluru vs Mumbai Indians
+1426263,Royal Challengers Bengaluru,Saurav Chauhan,9,8,1,0,8,out,112.5,Royal Challengers Bengaluru vs Mumbai Indians
+1426263,Royal Challengers Bengaluru,V Kohli,3,9,0,0,1,out,33.33,Royal Challengers Bengaluru vs Mumbai Indians
+1426263,Royal Challengers Bengaluru,Vijaykumar Vyshak,0,1,0,0,9,out,0.0,Royal Challengers Bengaluru vs Mumbai Indians
+1426263,Royal Challengers Bengaluru,WG Jacks,8,6,2,0,3,out,133.33,Royal Challengers Bengaluru vs Mumbai Indians
+1426263,Mumbai Indians,HH Pandya,21,6,0,3,4,not out,350.0,Mumbai Indians vs Royal Challengers Bengaluru
+1426263,Mumbai Indians,Ishan Kishan,69,34,7,5,1,out,202.94,Mumbai Indians vs Royal Challengers Bengaluru
+1426263,Mumbai Indians,RG Sharma,38,24,3,3,2,out,158.33,Mumbai Indians vs Royal Challengers Bengaluru
+1426263,Mumbai Indians,SA Yadav,52,19,5,4,3,out,273.68,Mumbai Indians vs Royal Challengers Bengaluru
+1426263,Mumbai Indians,Tilak Varma,16,10,3,0,5,not out,160.0,Mumbai Indians vs Royal Challengers Bengaluru
+1426264,Lucknow Super Giants,A Badoni,55,35,5,1,7,not out,157.14,Lucknow Super Giants vs Delhi Capitals
+1426264,Lucknow Super Giants,Arshad Khan,20,16,2,0,9,not out,125.0,Lucknow Super Giants vs Delhi Capitals
+1426264,Lucknow Super Giants,D Padikkal,3,6,0,0,3,out,50.0,Lucknow Super Giants vs Delhi Capitals
+1426264,Lucknow Super Giants,DJ Hooda,10,13,0,0,6,out,76.92,Lucknow Super Giants vs Delhi Capitals
+1426264,Lucknow Super Giants,KH Pandya,3,4,0,0,8,out,75.0,Lucknow Super Giants vs Delhi Capitals
+1426264,Lucknow Super Giants,KL Rahul,39,22,5,1,2,out,177.27,Lucknow Super Giants vs Delhi Capitals
+1426264,Lucknow Super Giants,MP Stoinis,8,10,1,0,4,out,80.0,Lucknow Super Giants vs Delhi Capitals
+1426264,Lucknow Super Giants,N Pooran,0,1,0,0,5,out,0.0,Lucknow Super Giants vs Delhi Capitals
+1426264,Lucknow Super Giants,Q de Kock,19,13,4,0,1,out,146.15,Lucknow Super Giants vs Delhi Capitals
+1426264,Delhi Capitals,DA Warner,8,9,1,0,2,out,88.89,Delhi Capitals vs Lucknow Super Giants
+1426264,Delhi Capitals,J Fraser-McGurk,55,35,2,5,3,out,157.14,Delhi Capitals vs Lucknow Super Giants
+1426264,Delhi Capitals,PP Shaw,32,22,6,0,1,out,145.45,Delhi Capitals vs Lucknow Super Giants
+1426264,Delhi Capitals,RR Pant,41,24,4,2,4,out,170.83,Delhi Capitals vs Lucknow Super Giants
+1426264,Delhi Capitals,SD Hope,11,10,1,0,6,not out,110.0,Delhi Capitals vs Lucknow Super Giants
+1426264,Delhi Capitals,T Stubbs,15,9,0,1,5,not out,166.67,Delhi Capitals vs Lucknow Super Giants
+1426265,Punjab Kings,Ashutosh Sharma,31,15,1,3,8,out,206.67,Punjab Kings vs Rajasthan Royals
+1426265,Punjab Kings,Atharva Taide,15,12,2,0,1,out,125.0,Punjab Kings vs Rajasthan Royals
+1426265,Punjab Kings,Harpreet Brar,3,3,0,0,9,not out,100.0,Punjab Kings vs Rajasthan Royals
+1426265,Punjab Kings,JM Bairstow,15,19,1,0,2,out,78.95,Punjab Kings vs Rajasthan Royals
+1426265,Punjab Kings,JM Sharma,29,24,1,2,5,out,120.83,Punjab Kings vs Rajasthan Royals
+1426265,Punjab Kings,LS Livingstone,21,14,2,1,7,out,150.0,Punjab Kings vs Rajasthan Royals
+1426265,Punjab Kings,P Simran Singh,10,14,1,0,3,out,71.43,Punjab Kings vs Rajasthan Royals
+1426265,Punjab Kings,SM Curran,6,10,0,0,4,out,60.0,Punjab Kings vs Rajasthan Royals
+1426265,Punjab Kings,Shashank Singh,9,9,1,0,6,out,100.0,Punjab Kings vs Rajasthan Royals
+1426265,Rajasthan Royals,Dhruv Jurel,6,11,0,0,5,out,54.55,Rajasthan Royals vs Punjab Kings
+1426265,Rajasthan Royals,KA Maharaj,1,2,0,0,8,out,50.0,Rajasthan Royals vs Punjab Kings
+1426265,Rajasthan Royals,R Parag,23,18,1,1,4,out,127.78,Rajasthan Royals vs Punjab Kings
+1426265,Rajasthan Royals,R Powell,11,5,2,0,7,out,220.0,Rajasthan Royals vs Punjab Kings
+1426265,Rajasthan Royals,SO Hetmyer,27,10,1,3,6,not out,270.0,Rajasthan Royals vs Punjab Kings
+1426265,Rajasthan Royals,SV Samson,18,14,1,1,3,out,128.57,Rajasthan Royals vs Punjab Kings
+1426265,Rajasthan Royals,Tanush Kotian,24,31,3,0,2,out,77.42,Rajasthan Royals vs Punjab Kings
+1426265,Rajasthan Royals,YBK Jaiswal,39,28,4,0,1,out,139.29,Rajasthan Royals vs Punjab Kings
+1426266,Lucknow Super Giants,A Badoni,29,27,2,1,4,out,107.41,Lucknow Super Giants vs Kolkata Knight Riders
+1426266,Lucknow Super Giants,Arshad Khan (2),5,4,1,0,8,out,125.0,Lucknow Super Giants vs Kolkata Knight Riders
+1426266,Lucknow Super Giants,DJ Hooda,8,10,1,0,3,out,80.0,Lucknow Super Giants vs Kolkata Knight Riders
+1426266,Lucknow Super Giants,KH Pandya,7,8,0,0,7,not out,87.5,Lucknow Super Giants vs Kolkata Knight Riders
+1426266,Lucknow Super Giants,KL Rahul,39,26,3,2,2,out,150.0,Lucknow Super Giants vs Kolkata Knight Riders
+1426266,Lucknow Super Giants,MP Stoinis,10,5,2,0,5,out,200.0,Lucknow Super Giants vs Kolkata Knight Riders
+1426266,Lucknow Super Giants,N Pooran,45,32,2,4,6,out,140.62,Lucknow Super Giants vs Kolkata Knight Riders
+1426266,Lucknow Super Giants,Q de Kock,10,8,2,0,1,out,125.0,Lucknow Super Giants vs Kolkata Knight Riders
+1426266,Kolkata Knight Riders,A Raghuvanshi,7,6,0,1,3,out,116.67,Kolkata Knight Riders vs Lucknow Super Giants
+1426266,Kolkata Knight Riders,PD Salt,88,44,14,3,1,not out,200.0,Kolkata Knight Riders vs Lucknow Super Giants
+1426266,Kolkata Knight Riders,SP Narine,6,6,1,0,2,out,100.0,Kolkata Knight Riders vs Lucknow Super Giants
+1426266,Kolkata Knight Riders,SS Iyer,38,38,6,0,4,not out,100.0,Kolkata Knight Riders vs Lucknow Super Giants
+1426267,Chennai Super Kings,AM Rahane,5,8,1,0,1,out,62.5,Chennai Super Kings vs Mumbai Indians
+1426267,Chennai Super Kings,DJ Mitchell,17,14,1,0,5,out,121.43,Chennai Super Kings vs Mumbai Indians
+1426267,Chennai Super Kings,MS Dhoni,20,4,0,3,6,not out,500.0,Chennai Super Kings vs Mumbai Indians
+1426267,Chennai Super Kings,R Ravindra,21,16,2,1,2,out,131.25,Chennai Super Kings vs Mumbai Indians
+1426267,Chennai Super Kings,RD Gaikwad,69,40,5,5,3,out,172.5,Chennai Super Kings vs Mumbai Indians
+1426267,Chennai Super Kings,S Dube,66,38,10,2,4,not out,173.68,Chennai Super Kings vs Mumbai Indians
+1426267,Mumbai Indians,HH Pandya,2,6,0,0,5,out,33.33,Mumbai Indians vs Chennai Super Kings
+1426267,Mumbai Indians,Ishan Kishan,23,15,3,1,2,out,153.33,Mumbai Indians vs Chennai Super Kings
+1426267,Mumbai Indians,Mohammad Nabi,4,7,0,0,8,not out,57.14,Mumbai Indians vs Chennai Super Kings
+1426267,Mumbai Indians,R Shepherd,1,2,0,0,7,out,50.0,Mumbai Indians vs Chennai Super Kings
+1426267,Mumbai Indians,RG Sharma,105,63,11,5,1,not out,166.67,Mumbai Indians vs Chennai Super Kings
+1426267,Mumbai Indians,SA Yadav,0,2,0,0,3,out,0.0,Mumbai Indians vs Chennai Super Kings
+1426267,Mumbai Indians,TH David,13,5,0,2,6,out,260.0,Mumbai Indians vs Chennai Super Kings
+1426267,Mumbai Indians,Tilak Varma,31,20,5,0,4,out,155.0,Mumbai Indians vs Chennai Super Kings
+1426268,Sunrisers Hyderabad,AK Markram,32,16,2,2,4,not out,200.0,Sunrisers Hyderabad vs Royal Challengers Bengaluru
+1426268,Sunrisers Hyderabad,Abdul Samad,37,10,4,3,5,not out,370.0,Sunrisers Hyderabad vs Royal Challengers Bengaluru
+1426268,Sunrisers Hyderabad,Abhishek Sharma,34,22,2,2,1,out,154.55,Sunrisers Hyderabad vs Royal Challengers Bengaluru
+1426268,Sunrisers Hyderabad,H Klaasen,67,31,2,7,3,out,216.13,Sunrisers Hyderabad vs Royal Challengers Bengaluru
+1426268,Sunrisers Hyderabad,TM Head,102,41,9,8,2,out,248.78,Sunrisers Hyderabad vs Royal Challengers Bengaluru
+1426268,Royal Challengers Bengaluru,Anuj Rawat,25,14,5,0,8,not out,178.57,Royal Challengers Bengaluru vs Sunrisers Hyderabad
+1426268,Royal Challengers Bengaluru,F du Plessis,62,28,7,4,2,out,221.43,Royal Challengers Bengaluru vs Sunrisers Hyderabad
+1426268,Royal Challengers Bengaluru,KD Karthik,83,35,5,7,5,out,237.14,Royal Challengers Bengaluru vs Sunrisers Hyderabad
+1426268,Royal Challengers Bengaluru,MK Lomror,19,11,0,2,7,out,172.73,Royal Challengers Bengaluru vs Sunrisers Hyderabad
+1426268,Royal Challengers Bengaluru,RM Patidar,9,5,0,1,4,out,180.0,Royal Challengers Bengaluru vs Sunrisers Hyderabad
+1426268,Royal Challengers Bengaluru,Saurav Chauhan,0,1,0,0,6,out,0.0,Royal Challengers Bengaluru vs Sunrisers Hyderabad
+1426268,Royal Challengers Bengaluru,V Kohli,42,20,6,2,1,out,210.0,Royal Challengers Bengaluru vs Sunrisers Hyderabad
+1426268,Royal Challengers Bengaluru,Vijaykumar Vyshak,1,2,0,0,9,not out,50.0,Royal Challengers Bengaluru vs Sunrisers Hyderabad
+1426268,Royal Challengers Bengaluru,WG Jacks,7,4,1,0,3,out,175.0,Royal Challengers Bengaluru vs Sunrisers Hyderabad
+1426269,Kolkata Knight Riders,A Raghuvanshi,30,18,5,0,3,out,166.67,Kolkata Knight Riders vs Rajasthan Royals
+1426269,Kolkata Knight Riders,AD Russell,13,10,2,0,5,out,130.0,Kolkata Knight Riders vs Rajasthan Royals
+1426269,Kolkata Knight Riders,PD Salt,10,13,1,0,1,out,76.92,Kolkata Knight Riders vs Rajasthan Royals
+1426269,Kolkata Knight Riders,RK Singh,20,9,1,2,6,not out,222.22,Kolkata Knight Riders vs Rajasthan Royals
+1426269,Kolkata Knight Riders,Ramandeep Singh,1,1,0,0,8,not out,100.0,Kolkata Knight Riders vs Rajasthan Royals
+1426269,Kolkata Knight Riders,SP Narine,109,56,13,6,2,out,194.64,Kolkata Knight Riders vs Rajasthan Royals
+1426269,Kolkata Knight Riders,SS Iyer,11,7,1,1,4,out,157.14,Kolkata Knight Riders vs Rajasthan Royals
+1426269,Kolkata Knight Riders,VR Iyer,8,6,1,0,7,out,133.33,Kolkata Knight Riders vs Rajasthan Royals
+1426269,Rajasthan Royals,Dhruv Jurel,2,4,0,0,5,out,50.0,Rajasthan Royals vs Kolkata Knight Riders
+1426269,Rajasthan Royals,JC Buttler,107,59,9,6,2,not out,181.36,Rajasthan Royals vs Kolkata Knight Riders
+1426269,Rajasthan Royals,R Ashwin,8,11,1,0,6,out,72.73,Rajasthan Royals vs Kolkata Knight Riders
+1426269,Rajasthan Royals,R Parag,34,14,4,2,4,out,242.86,Rajasthan Royals vs Kolkata Knight Riders
+1426269,Rajasthan Royals,R Powell,26,13,1,3,8,out,200.0,Rajasthan Royals vs Kolkata Knight Riders
+1426269,Rajasthan Royals,SO Hetmyer,0,1,0,0,7,out,0.0,Rajasthan Royals vs Kolkata Knight Riders
+1426269,Rajasthan Royals,SV Samson,12,8,2,0,3,out,150.0,Rajasthan Royals vs Kolkata Knight Riders
+1426269,Rajasthan Royals,TA Boult,0,1,0,0,9,out,0.0,Rajasthan Royals vs Kolkata Knight Riders
+1426269,Rajasthan Royals,YBK Jaiswal,19,9,3,1,1,out,211.11,Rajasthan Royals vs Kolkata Knight Riders
+1426270,Gujarat Titans,A Manohar,8,14,1,0,5,out,57.14,Gujarat Titans vs Delhi Capitals
+1426270,Gujarat Titans,B Sai Sudharsan,12,8,2,0,3,out,150.0,Gujarat Titans vs Delhi Capitals
+1426270,Gujarat Titans,DA Miller,2,6,0,0,4,out,33.33,Gujarat Titans vs Delhi Capitals
+1426270,Gujarat Titans,M Shahrukh Khan,0,1,0,0,7,not out,0.0,Gujarat Titans vs Delhi Capitals
+1426270,Gujarat Titans,MM Sharma,2,14,0,0,9,out,14.29,Gujarat Titans vs Delhi Capitals
+1426270,Gujarat Titans,Noor Ahmad,1,7,0,0,10,out,14.29,Gujarat Titans vs Delhi Capitals
+1426270,Gujarat Titans,R Tewatia,10,14,1,0,6,out,71.43,Gujarat Titans vs Delhi Capitals
+1426270,Gujarat Titans,Rashid Khan,31,24,2,1,8,out,129.17,Gujarat Titans vs Delhi Capitals
+1426270,Gujarat Titans,SH Johnson,1,1,0,0,11,not out,100.0,Gujarat Titans vs Delhi Capitals
+1426270,Gujarat Titans,Shubman Gill,8,6,2,0,2,out,133.33,Gujarat Titans vs Delhi Capitals
+1426270,Gujarat Titans,WP Saha,2,10,0,0,1,out,20.0,Gujarat Titans vs Delhi Capitals
+1426270,Delhi Capitals,Abishek Porel,15,7,2,1,4,out,214.29,Delhi Capitals vs Gujarat Titans
+1426270,Delhi Capitals,J Fraser-McGurk,20,10,2,2,2,out,200.0,Delhi Capitals vs Gujarat Titans
+1426270,Delhi Capitals,PP Shaw,7,6,1,0,1,out,116.67,Delhi Capitals vs Gujarat Titans
+1426270,Delhi Capitals,RR Pant,16,11,1,1,5,not out,145.45,Delhi Capitals vs Gujarat Titans
+1426270,Delhi Capitals,SD Hope,19,10,1,2,3,out,190.0,Delhi Capitals vs Gujarat Titans
+1426270,Delhi Capitals,Sumit Kumar,9,9,2,0,6,not out,100.0,Delhi Capitals vs Gujarat Titans
+1426271,Mumbai Indians,HH Pandya,10,6,0,1,5,out,166.67,Mumbai Indians vs Punjab Kings
+1426271,Mumbai Indians,Ishan Kishan,8,8,1,0,1,out,100.0,Mumbai Indians vs Punjab Kings
+1426271,Mumbai Indians,Mohammad Nabi,0,1,0,0,8,out,0.0,Mumbai Indians vs Punjab Kings
+1426271,Mumbai Indians,R Shepherd,1,2,0,0,7,out,50.0,Mumbai Indians vs Punjab Kings
+1426271,Mumbai Indians,RG Sharma,36,25,2,3,2,out,144.0,Mumbai Indians vs Punjab Kings
+1426271,Mumbai Indians,SA Yadav,78,53,7,3,3,out,147.17,Mumbai Indians vs Punjab Kings
+1426271,Mumbai Indians,TH David,14,7,2,1,6,out,200.0,Mumbai Indians vs Punjab Kings
+1426271,Mumbai Indians,Tilak Varma,34,18,2,2,4,not out,188.89,Mumbai Indians vs Punjab Kings
+1426271,Punjab Kings,Ashutosh Sharma,55,26,2,6,8,out,211.54,Punjab Kings vs Mumbai Indians
+1426271,Punjab Kings,HV Patel,1,4,0,0,10,not out,25.0,Punjab Kings vs Mumbai Indians
+1426271,Punjab Kings,Harpreet Brar,21,20,2,1,9,out,105.0,Punjab Kings vs Mumbai Indians
+1426271,Punjab Kings,Harpreet Singh,13,15,2,0,6,out,86.67,Punjab Kings vs Mumbai Indians
+1426271,Punjab Kings,JM Sharma,9,9,1,0,7,out,100.0,Punjab Kings vs Mumbai Indians
+1426271,Punjab Kings,K Rabada,8,3,0,1,11,out,266.67,Punjab Kings vs Mumbai Indians
+1426271,Punjab Kings,LS Livingstone,1,2,0,0,4,out,50.0,Punjab Kings vs Mumbai Indians
+1426271,Punjab Kings,P Simran Singh,0,1,0,0,2,out,0.0,Punjab Kings vs Mumbai Indians
+1426271,Punjab Kings,RR Rossouw,1,3,0,0,3,out,33.33,Punjab Kings vs Mumbai Indians
+1426271,Punjab Kings,SM Curran,6,7,1,0,1,out,85.71,Punjab Kings vs Mumbai Indians
+1426271,Punjab Kings,Shashank Singh,41,25,2,3,5,out,164.0,Punjab Kings vs Mumbai Indians
+1426272,Chennai Super Kings,AM Rahane,36,24,5,1,1,out,150.0,Chennai Super Kings vs Lucknow Super Giants
+1426272,Chennai Super Kings,MM Ali,30,20,0,3,7,out,150.0,Chennai Super Kings vs Lucknow Super Giants
+1426272,Chennai Super Kings,MS Dhoni,28,9,3,2,8,not out,311.11,Chennai Super Kings vs Lucknow Super Giants
+1426272,Chennai Super Kings,R Ravindra,0,1,0,0,2,out,0.0,Chennai Super Kings vs Lucknow Super Giants
+1426272,Chennai Super Kings,RA Jadeja,57,40,5,1,4,not out,142.5,Chennai Super Kings vs Lucknow Super Giants
+1426272,Chennai Super Kings,RD Gaikwad,17,13,1,0,3,out,130.77,Chennai Super Kings vs Lucknow Super Giants
+1426272,Chennai Super Kings,S Dube,3,8,0,0,5,out,37.5,Chennai Super Kings vs Lucknow Super Giants
+1426272,Chennai Super Kings,Sameer Rizvi,1,5,0,0,6,out,20.0,Chennai Super Kings vs Lucknow Super Giants
+1426272,Lucknow Super Giants,KL Rahul,82,53,9,3,2,out,154.72,Lucknow Super Giants vs Chennai Super Kings
+1426272,Lucknow Super Giants,MP Stoinis,8,7,1,0,4,not out,114.29,Lucknow Super Giants vs Chennai Super Kings
+1426272,Lucknow Super Giants,N Pooran,23,11,3,1,3,not out,209.09,Lucknow Super Giants vs Chennai Super Kings
+1426272,Lucknow Super Giants,Q de Kock,54,43,5,1,1,out,125.58,Lucknow Super Giants vs Chennai Super Kings
+1426273,Sunrisers Hyderabad,AK Markram,1,3,0,0,3,out,33.33,Sunrisers Hyderabad vs Delhi Capitals
+1426273,Sunrisers Hyderabad,Abdul Samad,13,8,1,1,7,out,162.5,Sunrisers Hyderabad vs Delhi Capitals
+1426273,Sunrisers Hyderabad,Abhishek Sharma,46,12,2,6,2,out,383.33,Sunrisers Hyderabad vs Delhi Capitals
+1426273,Sunrisers Hyderabad,H Klaasen,15,8,0,2,4,out,187.5,Sunrisers Hyderabad vs Delhi Capitals
+1426273,Sunrisers Hyderabad,Nithish Kumar Reddy,37,27,2,2,6,out,137.04,Sunrisers Hyderabad vs Delhi Capitals
+1426273,Sunrisers Hyderabad,PJ Cummins,1,1,0,0,8,out,100.0,Sunrisers Hyderabad vs Delhi Capitals
+1426273,Sunrisers Hyderabad,Shahbaz Ahmed,59,29,2,5,5,not out,203.45,Sunrisers Hyderabad vs Delhi Capitals
+1426273,Sunrisers Hyderabad,TM Head,89,32,11,6,1,out,278.12,Sunrisers Hyderabad vs Delhi Capitals
+1426273,Delhi Capitals,A Nortje,0,2,0,0,9,out,0.0,Delhi Capitals vs Sunrisers Hyderabad
+1426273,Delhi Capitals,AR Patel,6,8,0,0,8,out,75.0,Delhi Capitals vs Sunrisers Hyderabad
+1426273,Delhi Capitals,Abishek Porel,42,22,7,1,4,not out,190.91,Delhi Capitals vs Sunrisers Hyderabad
+1426273,Delhi Capitals,DA Warner,1,3,0,0,3,out,33.33,Delhi Capitals vs Sunrisers Hyderabad
+1426273,Delhi Capitals,J Fraser-McGurk,65,18,5,7,2,out,361.11,Delhi Capitals vs Sunrisers Hyderabad
+1426273,Delhi Capitals,Kuldeep Yadav,0,1,0,0,10,out,0.0,Delhi Capitals vs Sunrisers Hyderabad
+1426273,Delhi Capitals,Lalit Yadav,7,8,1,0,7,out,87.5,Delhi Capitals vs Sunrisers Hyderabad
+1426273,Delhi Capitals,Mukesh Kumar,0,2,0,0,11,not out,0.0,Delhi Capitals vs Sunrisers Hyderabad
+1426273,Delhi Capitals,PP Shaw,16,5,4,0,1,out,320.0,Delhi Capitals vs Sunrisers Hyderabad
+1426273,Delhi Capitals,RR Pant,44,35,5,1,6,out,125.71,Delhi Capitals vs Sunrisers Hyderabad
+1426273,Delhi Capitals,T Stubbs,10,11,0,0,5,out,90.91,Delhi Capitals vs Sunrisers Hyderabad
+1426274,Kolkata Knight Riders,A Raghuvanshi,3,4,0,0,3,out,75.0,Kolkata Knight Riders vs Royal Challengers Bengaluru
+1426274,Kolkata Knight Riders,AD Russell,27,19,4,0,7,not out,142.11,Kolkata Knight Riders vs Royal Challengers Bengaluru
+1426274,Kolkata Knight Riders,PD Salt,48,14,7,3,1,out,342.86,Kolkata Knight Riders vs Royal Challengers Bengaluru
+1426274,Kolkata Knight Riders,RK Singh,24,16,2,1,6,out,150.0,Kolkata Knight Riders vs Royal Challengers Bengaluru
+1426274,Kolkata Knight Riders,Ramandeep Singh,24,9,2,2,8,not out,266.67,Kolkata Knight Riders vs Royal Challengers Bengaluru
+1426274,Kolkata Knight Riders,SP Narine,10,15,2,0,2,out,66.67,Kolkata Knight Riders vs Royal Challengers Bengaluru
+1426274,Kolkata Knight Riders,SS Iyer,50,36,7,1,5,out,138.89,Kolkata Knight Riders vs Royal Challengers Bengaluru
+1426274,Kolkata Knight Riders,VR Iyer,16,8,3,0,4,out,200.0,Kolkata Knight Riders vs Royal Challengers Bengaluru
+1426274,Royal Challengers Bengaluru,C Green,6,4,0,1,5,out,150.0,Royal Challengers Bengaluru vs Kolkata Knight Riders
+1426274,Royal Challengers Bengaluru,F du Plessis,7,7,1,0,2,out,100.0,Royal Challengers Bengaluru vs Kolkata Knight Riders
+1426274,Royal Challengers Bengaluru,KD Karthik,25,18,3,1,8,out,138.89,Royal Challengers Bengaluru vs Kolkata Knight Riders
+1426274,Royal Challengers Bengaluru,KV Sharma,20,7,0,3,9,out,285.71,Royal Challengers Bengaluru vs Kolkata Knight Riders
+1426274,Royal Challengers Bengaluru,LH Ferguson,1,1,0,0,10,out,100.0,Royal Challengers Bengaluru vs Kolkata Knight Riders
+1426274,Royal Challengers Bengaluru,MK Lomror,4,3,1,0,7,out,133.33,Royal Challengers Bengaluru vs Kolkata Knight Riders
+1426274,Royal Challengers Bengaluru,RM Patidar,52,23,3,5,4,out,226.09,Royal Challengers Bengaluru vs Kolkata Knight Riders
+1426274,Royal Challengers Bengaluru,SS Prabhudessai,24,18,3,0,6,out,133.33,Royal Challengers Bengaluru vs Kolkata Knight Riders
+1426274,Royal Challengers Bengaluru,V Kohli,18,7,1,2,1,out,257.14,Royal Challengers Bengaluru vs Kolkata Knight Riders
+1426274,Royal Challengers Bengaluru,WG Jacks,55,32,4,5,3,out,171.88,Royal Challengers Bengaluru vs Kolkata Knight Riders
+1426275,Punjab Kings,Ashutosh Sharma,3,8,0,0,7,out,37.5,Punjab Kings vs Gujarat Titans
+1426275,Punjab Kings,HV Patel,0,1,0,0,10,out,0.0,Punjab Kings vs Gujarat Titans
+1426275,Punjab Kings,Harpreet Brar,29,12,4,1,9,out,241.67,Punjab Kings vs Gujarat Titans
+1426275,Punjab Kings,Harpreet Singh,14,19,0,0,8,out,73.68,Punjab Kings vs Gujarat Titans
+1426275,Punjab Kings,JM Sharma,13,12,0,1,4,out,108.33,Punjab Kings vs Gujarat Titans
+1426275,Punjab Kings,K Rabada,1,1,0,0,11,not out,100.0,Punjab Kings vs Gujarat Titans
+1426275,Punjab Kings,LS Livingstone,6,9,1,0,5,out,66.67,Punjab Kings vs Gujarat Titans
+1426275,Punjab Kings,P Simran Singh,29,20,3,2,2,out,145.0,Punjab Kings vs Gujarat Titans
+1426275,Punjab Kings,RR Rossouw,9,7,2,0,3,out,128.57,Punjab Kings vs Gujarat Titans
+1426275,Punjab Kings,SM Curran,20,19,2,0,1,out,105.26,Punjab Kings vs Gujarat Titans
+1426275,Punjab Kings,Shashank Singh,8,12,0,0,6,out,66.67,Punjab Kings vs Gujarat Titans
+1426275,Gujarat Titans,Azmatullah Omarzai,13,10,0,1,5,out,130.0,Gujarat Titans vs Punjab Kings
+1426275,Gujarat Titans,B Sai Sudharsan,31,34,3,0,3,out,91.18,Gujarat Titans vs Punjab Kings
+1426275,Gujarat Titans,DA Miller,4,6,0,0,4,out,66.67,Gujarat Titans vs Punjab Kings
+1426275,Gujarat Titans,M Shahrukh Khan,8,4,0,1,7,out,200.0,Gujarat Titans vs Punjab Kings
+1426275,Gujarat Titans,R Tewatia,36,18,7,0,6,not out,200.0,Gujarat Titans vs Punjab Kings
+1426275,Gujarat Titans,Rashid Khan,3,3,0,0,8,out,100.0,Gujarat Titans vs Punjab Kings
+1426275,Gujarat Titans,Shubman Gill,35,29,5,0,2,out,120.69,Gujarat Titans vs Punjab Kings
+1426275,Gujarat Titans,WP Saha,13,11,1,0,1,out,118.18,Gujarat Titans vs Punjab Kings
+1426276,Mumbai Indians,G Coetzee,0,1,0,0,9,out,0.0,Mumbai Indians vs Rajasthan Royals
+1426276,Mumbai Indians,HH Pandya,10,10,1,0,7,out,100.0,Mumbai Indians vs Rajasthan Royals
+1426276,Mumbai Indians,Ishan Kishan,0,3,0,0,3,out,0.0,Mumbai Indians vs Rajasthan Royals
+1426276,Mumbai Indians,JJ Bumrah,2,1,0,0,11,not out,200.0,Mumbai Indians vs Rajasthan Royals
+1426276,Mumbai Indians,Mohammad Nabi,23,17,2,1,5,out,135.29,Mumbai Indians vs Rajasthan Royals
+1426276,Mumbai Indians,N Wadhera,49,24,3,4,6,out,204.17,Mumbai Indians vs Rajasthan Royals
+1426276,Mumbai Indians,PP Chawla,1,1,0,0,10,not out,100.0,Mumbai Indians vs Rajasthan Royals
+1426276,Mumbai Indians,RG Sharma,6,5,1,0,1,out,120.0,Mumbai Indians vs Rajasthan Royals
+1426276,Mumbai Indians,SA Yadav,10,8,2,0,2,out,125.0,Mumbai Indians vs Rajasthan Royals
+1426276,Mumbai Indians,TH David,3,5,0,0,8,out,60.0,Mumbai Indians vs Rajasthan Royals
+1426276,Mumbai Indians,Tilak Varma,65,45,5,3,4,out,144.44,Mumbai Indians vs Rajasthan Royals
+1426276,Rajasthan Royals,JC Buttler,35,25,6,0,2,out,140.0,Rajasthan Royals vs Mumbai Indians
+1426276,Rajasthan Royals,SV Samson,37,27,2,2,3,not out,137.04,Rajasthan Royals vs Mumbai Indians
+1426276,Rajasthan Royals,YBK Jaiswal,104,60,9,7,1,not out,173.33,Rajasthan Royals vs Mumbai Indians
+1426277,Chennai Super Kings,AM Rahane,1,3,0,0,1,out,33.33,Chennai Super Kings vs Lucknow Super Giants
+1426277,Chennai Super Kings,DJ Mitchell,11,10,1,0,3,out,110.0,Chennai Super Kings vs Lucknow Super Giants
+1426277,Chennai Super Kings,MS Dhoni,4,1,1,0,6,not out,400.0,Chennai Super Kings vs Lucknow Super Giants
+1426277,Chennai Super Kings,RA Jadeja,16,19,2,0,4,out,84.21,Chennai Super Kings vs Lucknow Super Giants
+1426277,Chennai Super Kings,RD Gaikwad,108,60,12,3,2,not out,180.0,Chennai Super Kings vs Lucknow Super Giants
+1426277,Chennai Super Kings,S Dube,66,27,3,7,5,out,244.44,Chennai Super Kings vs Lucknow Super Giants
+1426277,Lucknow Super Giants,D Padikkal,12,18,0,0,4,out,66.67,Lucknow Super Giants vs Chennai Super Kings
+1426277,Lucknow Super Giants,DJ Hooda,17,6,2,1,6,not out,283.33,Lucknow Super Giants vs Chennai Super Kings
+1426277,Lucknow Super Giants,KL Rahul,16,14,1,1,3,out,114.29,Lucknow Super Giants vs Chennai Super Kings
+1426277,Lucknow Super Giants,MP Stoinis,116,61,11,6,2,not out,190.16,Lucknow Super Giants vs Chennai Super Kings
+1426277,Lucknow Super Giants,N Pooran,34,15,3,2,5,out,226.67,Lucknow Super Giants vs Chennai Super Kings
+1426277,Lucknow Super Giants,Q de Kock,0,3,0,0,1,out,0.0,Lucknow Super Giants vs Chennai Super Kings
+1426278,Delhi Capitals,AR Patel,66,43,5,4,3,out,153.49,Delhi Capitals vs Gujarat Titans
+1426278,Delhi Capitals,J Fraser-McGurk,23,14,2,2,2,out,164.29,Delhi Capitals vs Gujarat Titans
+1426278,Delhi Capitals,PP Shaw,11,7,2,0,1,out,157.14,Delhi Capitals vs Gujarat Titans
+1426278,Delhi Capitals,RR Pant,88,43,5,8,5,not out,204.65,Delhi Capitals vs Gujarat Titans
+1426278,Delhi Capitals,SD Hope,5,6,1,0,4,out,83.33,Delhi Capitals vs Gujarat Titans
+1426278,Delhi Capitals,T Stubbs,26,7,3,2,6,not out,371.43,Delhi Capitals vs Gujarat Titans
+1426278,Gujarat Titans,Azmatullah Omarzai,1,2,0,0,4,out,50.0,Gujarat Titans vs Delhi Capitals
+1426278,Gujarat Titans,B Sai Sudharsan,65,39,7,2,3,out,166.67,Gujarat Titans vs Delhi Capitals
+1426278,Gujarat Titans,DA Miller,55,23,6,3,5,out,239.13,Gujarat Titans vs Delhi Capitals
+1426278,Gujarat Titans,M Shahrukh Khan,8,5,0,1,6,out,160.0,Gujarat Titans vs Delhi Capitals
+1426278,Gujarat Titans,R Sai Kishore,13,6,0,2,9,out,216.67,Gujarat Titans vs Delhi Capitals
+1426278,Gujarat Titans,R Tewatia,4,5,0,0,7,out,80.0,Gujarat Titans vs Delhi Capitals
+1426278,Gujarat Titans,Rashid Khan,21,10,3,1,8,not out,210.0,Gujarat Titans vs Delhi Capitals
+1426278,Gujarat Titans,Shubman Gill,6,5,1,0,2,out,120.0,Gujarat Titans vs Delhi Capitals
+1426278,Gujarat Titans,WP Saha,39,25,5,1,1,out,156.0,Gujarat Titans vs Delhi Capitals
+1426279,Royal Challengers Bengaluru,C Green,37,20,5,0,5,not out,185.0,Royal Challengers Bengaluru vs Sunrisers Hyderabad
+1426279,Royal Challengers Bengaluru,F du Plessis,25,12,3,1,2,out,208.33,Royal Challengers Bengaluru vs Sunrisers Hyderabad
+1426279,Royal Challengers Bengaluru,KD Karthik,11,6,2,0,7,out,183.33,Royal Challengers Bengaluru vs Sunrisers Hyderabad
+1426279,Royal Challengers Bengaluru,MK Lomror,7,4,1,0,6,out,175.0,Royal Challengers Bengaluru vs Sunrisers Hyderabad
+1426279,Royal Challengers Bengaluru,RM Patidar,50,20,2,5,4,out,250.0,Royal Challengers Bengaluru vs Sunrisers Hyderabad
+1426279,Royal Challengers Bengaluru,Swapnil Singh,12,6,1,1,8,out,200.0,Royal Challengers Bengaluru vs Sunrisers Hyderabad
+1426279,Royal Challengers Bengaluru,V Kohli,51,43,4,1,1,out,118.6,Royal Challengers Bengaluru vs Sunrisers Hyderabad
+1426279,Royal Challengers Bengaluru,WG Jacks,6,9,0,0,3,out,66.67,Royal Challengers Bengaluru vs Sunrisers Hyderabad
+1426279,Sunrisers Hyderabad,AK Markram,7,8,1,0,3,out,87.5,Sunrisers Hyderabad vs Royal Challengers Bengaluru
+1426279,Sunrisers Hyderabad,Abdul Samad,10,6,0,1,7,out,166.67,Sunrisers Hyderabad vs Royal Challengers Bengaluru
+1426279,Sunrisers Hyderabad,Abhishek Sharma,31,13,3,2,1,out,238.46,Sunrisers Hyderabad vs Royal Challengers Bengaluru
+1426279,Sunrisers Hyderabad,B Kumar,13,13,3,0,9,out,100.0,Sunrisers Hyderabad vs Royal Challengers Bengaluru
+1426279,Sunrisers Hyderabad,H Klaasen,6,2,0,1,5,out,300.0,Sunrisers Hyderabad vs Royal Challengers Bengaluru
+1426279,Sunrisers Hyderabad,JD Unadkat,8,10,1,0,10,not out,80.0,Sunrisers Hyderabad vs Royal Challengers Bengaluru
+1426279,Sunrisers Hyderabad,Nithish Kumar Reddy,13,13,0,1,4,out,100.0,Sunrisers Hyderabad vs Royal Challengers Bengaluru
+1426279,Sunrisers Hyderabad,PJ Cummins,31,15,1,3,8,out,206.67,Sunrisers Hyderabad vs Royal Challengers Bengaluru
+1426279,Sunrisers Hyderabad,Shahbaz Ahmed,40,37,1,1,6,not out,108.11,Sunrisers Hyderabad vs Royal Challengers Bengaluru
+1426279,Sunrisers Hyderabad,TM Head,1,3,0,0,2,out,33.33,Sunrisers Hyderabad vs Royal Challengers Bengaluru
+1426280,Kolkata Knight Riders,AD Russell,24,12,2,2,4,out,200.0,Kolkata Knight Riders vs Punjab Kings
+1426280,Kolkata Knight Riders,PD Salt,75,36,6,6,1,out,208.33,Kolkata Knight Riders vs Punjab Kings
+1426280,Kolkata Knight Riders,RK Singh,5,4,1,0,6,out,125.0,Kolkata Knight Riders vs Punjab Kings
+1426280,Kolkata Knight Riders,Ramandeep Singh,6,3,0,1,7,not out,200.0,Kolkata Knight Riders vs Punjab Kings
+1426280,Kolkata Knight Riders,SP Narine,71,32,9,4,2,out,221.88,Kolkata Knight Riders vs Punjab Kings
+1426280,Kolkata Knight Riders,SS Iyer,28,10,1,3,5,out,280.0,Kolkata Knight Riders vs Punjab Kings
+1426280,Kolkata Knight Riders,VR Iyer,39,23,3,2,3,out,169.57,Kolkata Knight Riders vs Punjab Kings
+1426280,Punjab Kings,JM Bairstow,108,48,8,9,2,not out,225.0,Punjab Kings vs Kolkata Knight Riders
+1426280,Punjab Kings,P Simran Singh,54,20,4,5,1,out,270.0,Punjab Kings vs Kolkata Knight Riders
+1426280,Punjab Kings,RR Rossouw,26,16,1,2,3,out,162.5,Punjab Kings vs Kolkata Knight Riders
+1426280,Punjab Kings,Shashank Singh,68,28,2,8,4,not out,242.86,Punjab Kings vs Kolkata Knight Riders
+1426281,Delhi Capitals,AR Patel,11,6,0,1,6,not out,183.33,Delhi Capitals vs Mumbai Indians
+1426281,Delhi Capitals,Abishek Porel,36,27,3,1,2,out,133.33,Delhi Capitals vs Mumbai Indians
+1426281,Delhi Capitals,J Fraser-McGurk,78,26,11,5,1,out,300.0,Delhi Capitals vs Mumbai Indians
+1426281,Delhi Capitals,RR Pant,29,19,2,2,4,out,152.63,Delhi Capitals vs Mumbai Indians
+1426281,Delhi Capitals,SD Hope,41,17,0,5,3,out,241.18,Delhi Capitals vs Mumbai Indians
+1426281,Delhi Capitals,T Stubbs,48,25,6,2,5,not out,192.0,Delhi Capitals vs Mumbai Indians
+1426281,Mumbai Indians,HH Pandya,46,24,4,3,5,out,191.67,Mumbai Indians vs Delhi Capitals
+1426281,Mumbai Indians,Ishan Kishan,20,14,4,0,1,out,142.86,Mumbai Indians vs Delhi Capitals
+1426281,Mumbai Indians,L Wood,9,3,0,1,10,not out,300.0,Mumbai Indians vs Delhi Capitals
+1426281,Mumbai Indians,Mohammad Nabi,7,4,0,1,8,out,175.0,Mumbai Indians vs Delhi Capitals
+1426281,Mumbai Indians,N Wadhera,4,2,1,0,6,out,200.0,Mumbai Indians vs Delhi Capitals
+1426281,Mumbai Indians,PP Chawla,10,4,1,1,9,out,250.0,Mumbai Indians vs Delhi Capitals
+1426281,Mumbai Indians,RG Sharma,8,7,1,0,2,out,114.29,Mumbai Indians vs Delhi Capitals
+1426281,Mumbai Indians,SA Yadav,26,13,3,2,3,out,200.0,Mumbai Indians vs Delhi Capitals
+1426281,Mumbai Indians,TH David,37,17,2,3,7,out,217.65,Mumbai Indians vs Delhi Capitals
+1426281,Mumbai Indians,Tilak Varma,63,32,4,4,4,out,196.88,Mumbai Indians vs Delhi Capitals
+1426282,Lucknow Super Giants,A Badoni,18,13,1,0,6,not out,138.46,Lucknow Super Giants vs Rajasthan Royals
+1426282,Lucknow Super Giants,DJ Hooda,50,31,7,0,4,out,161.29,Lucknow Super Giants vs Rajasthan Royals
+1426282,Lucknow Super Giants,KH Pandya,15,11,1,0,7,not out,136.36,Lucknow Super Giants vs Rajasthan Royals
+1426282,Lucknow Super Giants,KL Rahul,70,47,8,1,3,out,148.94,Lucknow Super Giants vs Rajasthan Royals
+1426282,Lucknow Super Giants,MP Stoinis,0,4,0,0,2,out,0.0,Lucknow Super Giants vs Rajasthan Royals
+1426282,Lucknow Super Giants,N Pooran,11,11,1,0,5,out,100.0,Lucknow Super Giants vs Rajasthan Royals
+1426282,Lucknow Super Giants,Q de Kock,8,3,2,0,1,out,266.67,Lucknow Super Giants vs Rajasthan Royals
+1426282,Rajasthan Royals,Dhruv Jurel,52,34,5,2,5,not out,152.94,Rajasthan Royals vs Lucknow Super Giants
+1426282,Rajasthan Royals,JC Buttler,34,18,4,1,2,out,188.89,Rajasthan Royals vs Lucknow Super Giants
+1426282,Rajasthan Royals,R Parag,14,11,0,1,4,out,127.27,Rajasthan Royals vs Lucknow Super Giants
+1426282,Rajasthan Royals,SV Samson,71,33,7,4,3,not out,215.15,Rajasthan Royals vs Lucknow Super Giants
+1426282,Rajasthan Royals,YBK Jaiswal,24,18,3,1,1,out,133.33,Rajasthan Royals vs Lucknow Super Giants
+1426283,Gujarat Titans,B Sai Sudharsan,83,48,8,4,3,not out,172.92,Gujarat Titans vs Royal Challengers Bengaluru
+1426283,Gujarat Titans,DA Miller,26,19,2,1,5,not out,136.84,Gujarat Titans vs Royal Challengers Bengaluru
+1426283,Gujarat Titans,M Shahrukh Khan,58,30,3,5,4,out,193.33,Gujarat Titans vs Royal Challengers Bengaluru
+1426283,Gujarat Titans,Shubman Gill,16,19,1,0,2,out,84.21,Gujarat Titans vs Royal Challengers Bengaluru
+1426283,Gujarat Titans,WP Saha,5,4,1,0,1,out,125.0,Gujarat Titans vs Royal Challengers Bengaluru
+1426283,Royal Challengers Bengaluru,F du Plessis,24,12,1,3,2,out,200.0,Royal Challengers Bengaluru vs Gujarat Titans
+1426283,Royal Challengers Bengaluru,V Kohli,70,44,6,3,1,not out,159.09,Royal Challengers Bengaluru vs Gujarat Titans
+1426283,Royal Challengers Bengaluru,WG Jacks,94,40,5,9,3,not out,235.0,Royal Challengers Bengaluru vs Gujarat Titans
+1426284,Chennai Super Kings,AM Rahane,9,12,1,0,1,out,75.0,Chennai Super Kings vs Sunrisers Hyderabad
+1426284,Chennai Super Kings,DJ Mitchell,52,32,7,1,3,out,162.5,Chennai Super Kings vs Sunrisers Hyderabad
+1426284,Chennai Super Kings,MS Dhoni,5,2,1,0,5,not out,250.0,Chennai Super Kings vs Sunrisers Hyderabad
+1426284,Chennai Super Kings,RD Gaikwad,98,54,10,3,2,out,181.48,Chennai Super Kings vs Sunrisers Hyderabad
+1426284,Chennai Super Kings,S Dube,39,20,1,4,4,not out,195.0,Chennai Super Kings vs Sunrisers Hyderabad
+1426284,Sunrisers Hyderabad,AK Markram,32,25,4,0,4,out,128.0,Sunrisers Hyderabad vs Chennai Super Kings
+1426284,Sunrisers Hyderabad,Abdul Samad,19,18,1,1,7,out,105.56,Sunrisers Hyderabad vs Chennai Super Kings
+1426284,Sunrisers Hyderabad,Abhishek Sharma,15,9,1,1,2,out,166.67,Sunrisers Hyderabad vs Chennai Super Kings
+1426284,Sunrisers Hyderabad,Anmolpreet Singh,0,1,0,0,3,out,0.0,Sunrisers Hyderabad vs Chennai Super Kings
+1426284,Sunrisers Hyderabad,B Kumar,4,3,0,0,10,not out,133.33,Sunrisers Hyderabad vs Chennai Super Kings
+1426284,Sunrisers Hyderabad,H Klaasen,20,21,0,1,6,out,95.24,Sunrisers Hyderabad vs Chennai Super Kings
+1426284,Sunrisers Hyderabad,JD Unadkat,1,2,0,0,11,out,50.0,Sunrisers Hyderabad vs Chennai Super Kings
+1426284,Sunrisers Hyderabad,Nithish Kumar Reddy,15,15,0,0,5,out,100.0,Sunrisers Hyderabad vs Chennai Super Kings
+1426284,Sunrisers Hyderabad,PJ Cummins,5,7,1,0,9,out,71.43,Sunrisers Hyderabad vs Chennai Super Kings
+1426284,Sunrisers Hyderabad,Shahbaz Ahmed,7,5,1,0,8,out,140.0,Sunrisers Hyderabad vs Chennai Super Kings
+1426284,Sunrisers Hyderabad,TM Head,13,7,1,1,1,out,185.71,Sunrisers Hyderabad vs Chennai Super Kings
+1426285,Delhi Capitals,AR Patel,15,21,2,0,6,out,71.43,Delhi Capitals vs Kolkata Knight Riders
+1426285,Delhi Capitals,Abishek Porel,18,15,2,1,3,out,120.0,Delhi Capitals vs Kolkata Knight Riders
+1426285,Delhi Capitals,J Fraser-McGurk,12,6,1,1,2,out,200.0,Delhi Capitals vs Kolkata Knight Riders
+1426285,Delhi Capitals,Kuldeep Yadav,35,26,5,1,9,not out,134.62,Delhi Capitals vs Kolkata Knight Riders
+1426285,Delhi Capitals,Kumar Kushagra,1,3,0,0,8,out,33.33,Delhi Capitals vs Kolkata Knight Riders
+1426285,Delhi Capitals,LB Williams,1,2,0,0,11,not out,50.0,Delhi Capitals vs Kolkata Knight Riders
+1426285,Delhi Capitals,PP Shaw,13,7,3,0,1,out,185.71,Delhi Capitals vs Kolkata Knight Riders
+1426285,Delhi Capitals,RR Pant,27,20,2,1,5,out,135.0,Delhi Capitals vs Kolkata Knight Riders
+1426285,Delhi Capitals,Rasikh Salam,8,10,1,0,10,out,80.0,Delhi Capitals vs Kolkata Knight Riders
+1426285,Delhi Capitals,SD Hope,6,3,0,1,4,out,200.0,Delhi Capitals vs Kolkata Knight Riders
+1426285,Delhi Capitals,T Stubbs,4,7,0,0,7,out,57.14,Delhi Capitals vs Kolkata Knight Riders
+1426285,Kolkata Knight Riders,PD Salt,68,33,7,5,1,out,206.06,Kolkata Knight Riders vs Delhi Capitals
+1426285,Kolkata Knight Riders,RK Singh,11,11,1,0,3,out,100.0,Kolkata Knight Riders vs Delhi Capitals
+1426285,Kolkata Knight Riders,SP Narine,15,10,3,0,2,out,150.0,Kolkata Knight Riders vs Delhi Capitals
+1426285,Kolkata Knight Riders,SS Iyer,33,23,3,1,4,not out,143.48,Kolkata Knight Riders vs Delhi Capitals
+1426285,Kolkata Knight Riders,VR Iyer,26,23,2,1,5,not out,113.04,Kolkata Knight Riders vs Delhi Capitals
+1426286,Mumbai Indians,G Coetzee,1,2,0,0,9,not out,50.0,Mumbai Indians vs Lucknow Super Giants
+1426286,Mumbai Indians,HH Pandya,0,1,0,0,5,out,0.0,Mumbai Indians vs Lucknow Super Giants
+1426286,Mumbai Indians,Ishan Kishan,31,35,3,0,1,out,88.57,Mumbai Indians vs Lucknow Super Giants
+1426286,Mumbai Indians,Mohammad Nabi,1,2,0,0,8,out,50.0,Mumbai Indians vs Lucknow Super Giants
+1426286,Mumbai Indians,N Wadhera,46,41,4,2,6,out,112.2,Mumbai Indians vs Lucknow Super Giants
+1426286,Mumbai Indians,RG Sharma,4,5,1,0,2,out,80.0,Mumbai Indians vs Lucknow Super Giants
+1426286,Mumbai Indians,SA Yadav,10,6,0,1,3,out,166.67,Mumbai Indians vs Lucknow Super Giants
+1426286,Mumbai Indians,TH David,34,17,3,1,7,not out,200.0,Mumbai Indians vs Lucknow Super Giants
+1426286,Mumbai Indians,Tilak Varma,7,11,1,0,4,out,63.64,Mumbai Indians vs Lucknow Super Giants
+1426286,Lucknow Super Giants,A Badoni,6,6,1,0,7,out,100.0,Lucknow Super Giants vs Mumbai Indians
+1426286,Lucknow Super Giants,AA Kulkarni,0,1,0,0,2,out,0.0,Lucknow Super Giants vs Mumbai Indians
+1426286,Lucknow Super Giants,AJ Turner,5,9,0,0,6,out,55.56,Lucknow Super Giants vs Mumbai Indians
+1426286,Lucknow Super Giants,DJ Hooda,18,18,2,0,4,out,100.0,Lucknow Super Giants vs Mumbai Indians
+1426286,Lucknow Super Giants,KH Pandya,1,1,0,0,8,not out,100.0,Lucknow Super Giants vs Mumbai Indians
+1426286,Lucknow Super Giants,KL Rahul,28,22,3,1,1,out,127.27,Lucknow Super Giants vs Mumbai Indians
+1426286,Lucknow Super Giants,MP Stoinis,62,45,7,2,3,out,137.78,Lucknow Super Giants vs Mumbai Indians
+1426286,Lucknow Super Giants,N Pooran,14,14,1,0,5,not out,100.0,Lucknow Super Giants vs Mumbai Indians
+1426287,Chennai Super Kings,AM Rahane,29,24,5,0,1,out,120.83,Chennai Super Kings vs Punjab Kings
+1426287,Chennai Super Kings,DJ Mitchell,1,1,0,0,8,not out,100.0,Chennai Super Kings vs Punjab Kings
+1426287,Chennai Super Kings,MM Ali,15,9,1,1,6,out,166.67,Chennai Super Kings vs Punjab Kings
+1426287,Chennai Super Kings,MS Dhoni,14,11,1,1,7,out,127.27,Chennai Super Kings vs Punjab Kings
+1426287,Chennai Super Kings,RA Jadeja,2,4,0,0,4,out,50.0,Chennai Super Kings vs Punjab Kings
+1426287,Chennai Super Kings,RD Gaikwad,58,47,4,2,2,out,123.4,Chennai Super Kings vs Punjab Kings
+1426287,Chennai Super Kings,S Dube,0,1,0,0,3,out,0.0,Chennai Super Kings vs Punjab Kings
+1426287,Chennai Super Kings,Sameer Rizvi,21,23,1,0,5,out,91.3,Chennai Super Kings vs Punjab Kings
+1426287,Punjab Kings,JM Bairstow,46,30,7,1,2,out,153.33,Punjab Kings vs Chennai Super Kings
+1426287,Punjab Kings,P Simran Singh,13,10,1,1,1,out,130.0,Punjab Kings vs Chennai Super Kings
+1426287,Punjab Kings,RR Rossouw,43,23,5,2,3,out,186.96,Punjab Kings vs Chennai Super Kings
+1426287,Punjab Kings,SM Curran,22,18,2,0,5,not out,122.22,Punjab Kings vs Chennai Super Kings
+1426287,Punjab Kings,Shashank Singh,25,26,1,1,4,not out,96.15,Punjab Kings vs Chennai Super Kings
+1426288,Sunrisers Hyderabad,Abhishek Sharma,12,10,0,1,2,out,120.0,Sunrisers Hyderabad vs Rajasthan Royals
+1426288,Sunrisers Hyderabad,Anmolpreet Singh,5,5,1,0,3,out,100.0,Sunrisers Hyderabad vs Rajasthan Royals
+1426288,Sunrisers Hyderabad,H Klaasen,42,19,3,3,5,not out,221.05,Sunrisers Hyderabad vs Rajasthan Royals
+1426288,Sunrisers Hyderabad,Nithish Kumar Reddy,76,42,3,8,4,not out,180.95,Sunrisers Hyderabad vs Rajasthan Royals
+1426288,Sunrisers Hyderabad,TM Head,58,44,6,3,1,out,131.82,Sunrisers Hyderabad vs Rajasthan Royals
+1426288,Rajasthan Royals,Dhruv Jurel,1,3,0,0,7,out,33.33,Rajasthan Royals vs Sunrisers Hyderabad
+1426288,Rajasthan Royals,JC Buttler,0,1,0,0,2,out,0.0,Rajasthan Royals vs Sunrisers Hyderabad
+1426288,Rajasthan Royals,R Ashwin,2,2,0,0,8,not out,100.0,Rajasthan Royals vs Sunrisers Hyderabad
+1426288,Rajasthan Royals,R Parag,77,48,8,4,4,out,160.42,Rajasthan Royals vs Sunrisers Hyderabad
+1426288,Rajasthan Royals,R Powell,27,15,3,1,6,out,180.0,Rajasthan Royals vs Sunrisers Hyderabad
+1426288,Rajasthan Royals,SO Hetmyer,13,9,1,1,5,out,144.44,Rajasthan Royals vs Sunrisers Hyderabad
+1426288,Rajasthan Royals,SV Samson,0,3,0,0,3,out,0.0,Rajasthan Royals vs Sunrisers Hyderabad
+1426288,Rajasthan Royals,YBK Jaiswal,66,39,7,2,1,out,169.23,Rajasthan Royals vs Sunrisers Hyderabad
+1426289,Kolkata Knight Riders,A Raghuvanshi,13,6,0,2,3,out,216.67,Kolkata Knight Riders vs Mumbai Indians
+1426289,Kolkata Knight Riders,AD Russell,7,2,0,1,8,out,350.0,Kolkata Knight Riders vs Mumbai Indians
+1426289,Kolkata Knight Riders,MA Starc,0,2,0,0,10,out,0.0,Kolkata Knight Riders vs Mumbai Indians
+1426289,Kolkata Knight Riders,MK Pandey,42,30,2,2,7,out,140.0,Kolkata Knight Riders vs Mumbai Indians
+1426289,Kolkata Knight Riders,PD Salt,5,3,1,0,1,out,166.67,Kolkata Knight Riders vs Mumbai Indians
+1426289,Kolkata Knight Riders,RK Singh,9,8,2,0,6,out,112.5,Kolkata Knight Riders vs Mumbai Indians
+1426289,Kolkata Knight Riders,Ramandeep Singh,2,4,0,0,9,out,50.0,Kolkata Knight Riders vs Mumbai Indians
+1426289,Kolkata Knight Riders,SP Narine,8,8,0,1,2,out,100.0,Kolkata Knight Riders vs Mumbai Indians
+1426289,Kolkata Knight Riders,SS Iyer,6,4,1,0,4,out,150.0,Kolkata Knight Riders vs Mumbai Indians
+1426289,Kolkata Knight Riders,VR Iyer,70,52,6,3,5,out,134.62,Kolkata Knight Riders vs Mumbai Indians
+1426289,Mumbai Indians,G Coetzee,8,7,0,1,9,out,114.29,Mumbai Indians vs Kolkata Knight Riders
+1426289,Mumbai Indians,HH Pandya,1,3,0,0,7,out,33.33,Mumbai Indians vs Kolkata Knight Riders
+1426289,Mumbai Indians,Ishan Kishan,13,7,1,1,1,out,185.71,Mumbai Indians vs Kolkata Knight Riders
+1426289,Mumbai Indians,JJ Bumrah,1,1,0,0,11,not out,100.0,Mumbai Indians vs Kolkata Knight Riders
+1426289,Mumbai Indians,N Wadhera,6,11,1,0,6,out,54.55,Mumbai Indians vs Kolkata Knight Riders
+1426289,Mumbai Indians,Naman Dhir,11,11,2,0,3,out,100.0,Mumbai Indians vs Kolkata Knight Riders
+1426289,Mumbai Indians,PP Chawla,0,1,0,0,10,out,0.0,Mumbai Indians vs Kolkata Knight Riders
+1426289,Mumbai Indians,RG Sharma,11,12,0,1,2,out,91.67,Mumbai Indians vs Kolkata Knight Riders
+1426289,Mumbai Indians,SA Yadav,56,34,6,2,4,out,164.71,Mumbai Indians vs Kolkata Knight Riders
+1426289,Mumbai Indians,TH David,24,20,1,1,8,out,120.0,Mumbai Indians vs Kolkata Knight Riders
+1426289,Mumbai Indians,Tilak Varma,4,6,0,0,5,out,66.67,Mumbai Indians vs Kolkata Knight Riders
+1426290,Gujarat Titans,B Sai Sudharsan,6,14,0,0,3,out,42.86,Gujarat Titans vs Royal Challengers Bengaluru
+1426290,Gujarat Titans,DA Miller,30,20,3,2,5,out,150.0,Gujarat Titans vs Royal Challengers Bengaluru
+1426290,Gujarat Titans,M Shahrukh Khan,37,24,5,1,4,out,154.17,Gujarat Titans vs Royal Challengers Bengaluru
+1426290,Gujarat Titans,MJ Suthar,1,2,0,0,9,out,50.0,Gujarat Titans vs Royal Challengers Bengaluru
+1426290,Gujarat Titans,MM Sharma,0,1,0,0,10,out,0.0,Gujarat Titans vs Royal Challengers Bengaluru
+1426290,Gujarat Titans,R Tewatia,35,21,5,1,6,out,166.67,Gujarat Titans vs Royal Challengers Bengaluru
+1426290,Gujarat Titans,Rashid Khan,18,14,2,1,7,out,128.57,Gujarat Titans vs Royal Challengers Bengaluru
+1426290,Gujarat Titans,Shubman Gill,2,7,0,0,2,out,28.57,Gujarat Titans vs Royal Challengers Bengaluru
+1426290,Gujarat Titans,V Shankar,10,7,2,0,8,out,142.86,Gujarat Titans vs Royal Challengers Bengaluru
+1426290,Gujarat Titans,WP Saha,1,7,0,0,1,out,14.29,Gujarat Titans vs Royal Challengers Bengaluru
+1426290,Royal Challengers Bengaluru,C Green,1,2,0,0,6,out,50.0,Royal Challengers Bengaluru vs Gujarat Titans
+1426290,Royal Challengers Bengaluru,F du Plessis,64,23,10,3,2,out,278.26,Royal Challengers Bengaluru vs Gujarat Titans
+1426290,Royal Challengers Bengaluru,GJ Maxwell,4,3,1,0,5,out,133.33,Royal Challengers Bengaluru vs Gujarat Titans
+1426290,Royal Challengers Bengaluru,KD Karthik,21,12,3,0,7,not out,175.0,Royal Challengers Bengaluru vs Gujarat Titans
+1426290,Royal Challengers Bengaluru,RM Patidar,2,3,0,0,4,out,66.67,Royal Challengers Bengaluru vs Gujarat Titans
+1426290,Royal Challengers Bengaluru,Swapnil Singh,15,9,2,1,8,not out,166.67,Royal Challengers Bengaluru vs Gujarat Titans
+1426290,Royal Challengers Bengaluru,V Kohli,42,27,2,4,1,out,155.56,Royal Challengers Bengaluru vs Gujarat Titans
+1426290,Royal Challengers Bengaluru,WG Jacks,1,3,0,0,3,out,33.33,Royal Challengers Bengaluru vs Gujarat Titans
+1426291,Chennai Super Kings,AM Rahane,9,7,1,0,1,out,128.57,Chennai Super Kings vs Punjab Kings
+1426291,Chennai Super Kings,DJ Mitchell,30,19,2,1,3,out,157.89,Chennai Super Kings vs Punjab Kings
+1426291,Chennai Super Kings,MJ Santner,11,11,1,0,7,out,100.0,Chennai Super Kings vs Punjab Kings
+1426291,Chennai Super Kings,MM Ali,17,20,2,0,5,out,85.0,Chennai Super Kings vs Punjab Kings
+1426291,Chennai Super Kings,MS Dhoni,0,1,0,0,9,out,0.0,Chennai Super Kings vs Punjab Kings
+1426291,Chennai Super Kings,RA Jadeja,43,26,3,2,6,out,165.38,Chennai Super Kings vs Punjab Kings
+1426291,Chennai Super Kings,RD Gaikwad,32,21,4,1,2,out,152.38,Chennai Super Kings vs Punjab Kings
+1426291,Chennai Super Kings,RJ Gleeson,2,2,0,0,11,not out,100.0,Chennai Super Kings vs Punjab Kings
+1426291,Chennai Super Kings,S Dube,0,1,0,0,4,out,0.0,Chennai Super Kings vs Punjab Kings
+1426291,Chennai Super Kings,SN Thakur,17,11,2,1,8,out,154.55,Chennai Super Kings vs Punjab Kings
+1426291,Chennai Super Kings,TU Deshpande,0,1,0,0,10,not out,0.0,Chennai Super Kings vs Punjab Kings
+1426291,Punjab Kings,Ashutosh Sharma,3,10,0,0,7,out,30.0,Punjab Kings vs Chennai Super Kings
+1426291,Punjab Kings,HV Patel,12,13,1,1,9,out,92.31,Punjab Kings vs Chennai Super Kings
+1426291,Punjab Kings,Harpreet Brar,17,13,2,0,8,not out,130.77,Punjab Kings vs Chennai Super Kings
+1426291,Punjab Kings,JM Bairstow,7,6,1,0,2,out,116.67,Punjab Kings vs Chennai Super Kings
+1426291,Punjab Kings,JM Sharma,0,1,0,0,6,out,0.0,Punjab Kings vs Chennai Super Kings
+1426291,Punjab Kings,K Rabada,11,10,0,1,11,not out,110.0,Punjab Kings vs Chennai Super Kings
+1426291,Punjab Kings,P Simran Singh,30,23,2,2,1,out,130.43,Punjab Kings vs Chennai Super Kings
+1426291,Punjab Kings,RD Chahar,16,10,2,1,10,out,160.0,Punjab Kings vs Chennai Super Kings
+1426291,Punjab Kings,RR Rossouw,0,3,0,0,3,out,0.0,Punjab Kings vs Chennai Super Kings
+1426291,Punjab Kings,SM Curran,7,11,0,0,5,out,63.64,Punjab Kings vs Chennai Super Kings
+1426291,Punjab Kings,Shashank Singh,27,20,4,0,4,out,135.0,Punjab Kings vs Chennai Super Kings
+1426292,Kolkata Knight Riders,A Raghuvanshi,32,26,3,1,3,out,123.08,Kolkata Knight Riders vs Lucknow Super Giants
+1426292,Kolkata Knight Riders,AD Russell,12,8,1,1,4,out,150.0,Kolkata Knight Riders vs Lucknow Super Giants
+1426292,Kolkata Knight Riders,PD Salt,32,14,5,1,1,out,228.57,Kolkata Knight Riders vs Lucknow Super Giants
+1426292,Kolkata Knight Riders,RK Singh,16,11,2,0,5,out,145.45,Kolkata Knight Riders vs Lucknow Super Giants
+1426292,Kolkata Knight Riders,Ramandeep Singh,25,6,1,3,7,not out,416.67,Kolkata Knight Riders vs Lucknow Super Giants
+1426292,Kolkata Knight Riders,SP Narine,81,39,6,7,2,out,207.69,Kolkata Knight Riders vs Lucknow Super Giants
+1426292,Kolkata Knight Riders,SS Iyer,23,15,3,0,6,out,153.33,Kolkata Knight Riders vs Lucknow Super Giants
+1426292,Kolkata Knight Riders,VR Iyer,1,1,0,0,8,not out,100.0,Kolkata Knight Riders vs Lucknow Super Giants
+1426292,Lucknow Super Giants,A Badoni,15,12,0,1,6,out,125.0,Lucknow Super Giants vs Kolkata Knight Riders
+1426292,Lucknow Super Giants,AA Kulkarni,9,7,2,0,2,out,128.57,Lucknow Super Giants vs Kolkata Knight Riders
+1426292,Lucknow Super Giants,AJ Turner,16,9,0,2,7,out,177.78,Lucknow Super Giants vs Kolkata Knight Riders
+1426292,Lucknow Super Giants,DJ Hooda,5,3,1,0,4,out,166.67,Lucknow Super Giants vs Kolkata Knight Riders
+1426292,Lucknow Super Giants,KH Pandya,5,6,0,0,8,out,83.33,Lucknow Super Giants vs Kolkata Knight Riders
+1426292,Lucknow Super Giants,KL Rahul,25,21,3,0,1,out,119.05,Lucknow Super Giants vs Kolkata Knight Riders
+1426292,Lucknow Super Giants,MP Stoinis,36,21,4,2,3,out,171.43,Lucknow Super Giants vs Kolkata Knight Riders
+1426292,Lucknow Super Giants,N Pooran,10,8,0,1,5,out,125.0,Lucknow Super Giants vs Kolkata Knight Riders
+1426292,Lucknow Super Giants,Ravi Bishnoi,2,3,0,0,10,out,66.67,Lucknow Super Giants vs Kolkata Knight Riders
+1426292,Lucknow Super Giants,Yudhvir Singh,7,7,0,1,9,out,100.0,Lucknow Super Giants vs Kolkata Knight Riders
+1426293,Sunrisers Hyderabad,Abdul Samad,3,4,0,0,8,out,75.0,Sunrisers Hyderabad vs Mumbai Indians
+1426293,Sunrisers Hyderabad,Abhishek Sharma,11,16,0,1,1,out,68.75,Sunrisers Hyderabad vs Mumbai Indians
+1426293,Sunrisers Hyderabad,H Klaasen,2,4,0,0,5,out,50.0,Sunrisers Hyderabad vs Mumbai Indians
+1426293,Sunrisers Hyderabad,M Jansen,17,12,1,1,6,out,141.67,Sunrisers Hyderabad vs Mumbai Indians
+1426293,Sunrisers Hyderabad,MA Agarwal,5,6,1,0,3,out,83.33,Sunrisers Hyderabad vs Mumbai Indians
+1426293,Sunrisers Hyderabad,Nithish Kumar Reddy,20,15,2,0,4,out,133.33,Sunrisers Hyderabad vs Mumbai Indians
+1426293,Sunrisers Hyderabad,PJ Cummins,32,16,2,2,9,not out,200.0,Sunrisers Hyderabad vs Mumbai Indians
+1426293,Sunrisers Hyderabad,Sanvir Singh,8,7,0,0,10,not out,114.29,Sunrisers Hyderabad vs Mumbai Indians
+1426293,Sunrisers Hyderabad,Shahbaz Ahmed,10,12,0,0,7,out,83.33,Sunrisers Hyderabad vs Mumbai Indians
+1426293,Sunrisers Hyderabad,TM Head,44,28,6,1,2,out,157.14,Sunrisers Hyderabad vs Mumbai Indians
+1426293,Mumbai Indians,Ishan Kishan,9,7,2,0,1,out,128.57,Mumbai Indians vs Sunrisers Hyderabad
+1426293,Mumbai Indians,Naman Dhir,0,9,0,0,3,out,0.0,Mumbai Indians vs Sunrisers Hyderabad
+1426293,Mumbai Indians,RG Sharma,4,5,1,0,2,out,80.0,Mumbai Indians vs Sunrisers Hyderabad
+1426293,Mumbai Indians,SA Yadav,102,51,12,6,4,not out,200.0,Mumbai Indians vs Sunrisers Hyderabad
+1426293,Mumbai Indians,Tilak Varma,37,32,6,0,5,not out,115.62,Mumbai Indians vs Sunrisers Hyderabad
+1426294,Delhi Capitals,AR Patel,15,10,1,1,4,out,150.0,Delhi Capitals vs Rajasthan Royals
+1426294,Delhi Capitals,Abishek Porel,65,36,7,3,2,out,180.56,Delhi Capitals vs Rajasthan Royals
+1426294,Delhi Capitals,Gulbadin Naib,19,15,1,1,7,out,126.67,Delhi Capitals vs Rajasthan Royals
+1426294,Delhi Capitals,J Fraser-McGurk,50,20,7,3,1,out,250.0,Delhi Capitals vs Rajasthan Royals
+1426294,Delhi Capitals,Kuldeep Yadav,5,2,1,0,9,not out,250.0,Delhi Capitals vs Rajasthan Royals
+1426294,Delhi Capitals,RR Pant,15,13,0,1,5,out,115.38,Delhi Capitals vs Rajasthan Royals
+1426294,Delhi Capitals,Rasikh Salam,9,3,2,0,8,out,300.0,Delhi Capitals vs Rajasthan Royals
+1426294,Delhi Capitals,SD Hope,1,1,0,0,3,out,100.0,Delhi Capitals vs Rajasthan Royals
+1426294,Delhi Capitals,T Stubbs,41,20,3,3,6,out,205.0,Delhi Capitals vs Rajasthan Royals
+1426294,Rajasthan Royals,Avesh Khan,7,3,1,0,10,not out,233.33,Rajasthan Royals vs Delhi Capitals
+1426294,Rajasthan Royals,D Ferreira,1,3,0,0,7,out,33.33,Rajasthan Royals vs Delhi Capitals
+1426294,Rajasthan Royals,JC Buttler,19,17,2,1,3,out,111.76,Rajasthan Royals vs Delhi Capitals
+1426294,Rajasthan Royals,R Ashwin,2,3,0,0,8,out,66.67,Rajasthan Royals vs Delhi Capitals
+1426294,Rajasthan Royals,R Parag,27,22,1,3,4,out,122.73,Rajasthan Royals vs Delhi Capitals
+1426294,Rajasthan Royals,R Powell,13,10,1,1,6,out,130.0,Rajasthan Royals vs Delhi Capitals
+1426294,Rajasthan Royals,SB Dubey,25,12,2,2,5,out,208.33,Rajasthan Royals vs Delhi Capitals
+1426294,Rajasthan Royals,SV Samson,86,45,8,6,2,out,191.11,Rajasthan Royals vs Delhi Capitals
+1426294,Rajasthan Royals,TA Boult,2,3,0,0,9,not out,66.67,Rajasthan Royals vs Delhi Capitals
+1426294,Rajasthan Royals,YBK Jaiswal,4,2,1,0,1,out,200.0,Rajasthan Royals vs Delhi Capitals
+1426295,Lucknow Super Giants,A Badoni,55,30,9,0,6,not out,183.33,Lucknow Super Giants vs Sunrisers Hyderabad
+1426295,Lucknow Super Giants,KH Pandya,24,21,0,2,4,out,114.29,Lucknow Super Giants vs Sunrisers Hyderabad
+1426295,Lucknow Super Giants,KL Rahul,29,33,1,1,1,out,87.88,Lucknow Super Giants vs Sunrisers Hyderabad
+1426295,Lucknow Super Giants,MP Stoinis,3,5,0,0,3,out,60.0,Lucknow Super Giants vs Sunrisers Hyderabad
+1426295,Lucknow Super Giants,N Pooran,48,26,6,1,5,not out,184.62,Lucknow Super Giants vs Sunrisers Hyderabad
+1426295,Lucknow Super Giants,Q de Kock,2,5,0,0,2,out,40.0,Lucknow Super Giants vs Sunrisers Hyderabad
+1426295,Sunrisers Hyderabad,Abhishek Sharma,75,28,8,6,1,not out,267.86,Sunrisers Hyderabad vs Lucknow Super Giants
+1426295,Sunrisers Hyderabad,TM Head,89,30,8,8,2,not out,296.67,Sunrisers Hyderabad vs Lucknow Super Giants
+1426296,Royal Challengers Bengaluru,C Green,46,27,5,1,5,out,170.37,Royal Challengers Bengaluru vs Punjab Kings
+1426296,Royal Challengers Bengaluru,F du Plessis,9,7,2,0,2,out,128.57,Royal Challengers Bengaluru vs Punjab Kings
+1426296,Royal Challengers Bengaluru,KD Karthik,14,6,0,2,6,out,233.33,Royal Challengers Bengaluru vs Punjab Kings
+1426296,Royal Challengers Bengaluru,MK Lomror,0,2,0,0,7,out,0.0,Royal Challengers Bengaluru vs Punjab Kings
+1426296,Royal Challengers Bengaluru,RM Patidar,55,23,3,6,4,out,239.13,Royal Challengers Bengaluru vs Punjab Kings
+1426296,Royal Challengers Bengaluru,Swapnil Singh,1,1,0,0,8,not out,100.0,Royal Challengers Bengaluru vs Punjab Kings
+1426296,Royal Challengers Bengaluru,V Kohli,92,47,7,6,1,out,195.74,Royal Challengers Bengaluru vs Punjab Kings
+1426296,Royal Challengers Bengaluru,WG Jacks,12,7,1,1,3,out,171.43,Royal Challengers Bengaluru vs Punjab Kings
+1426296,Punjab Kings,Arshdeep Singh,4,3,1,0,11,out,133.33,Punjab Kings vs Royal Challengers Bengaluru
+1426296,Punjab Kings,Ashutosh Sharma,8,5,0,1,8,out,160.0,Punjab Kings vs Royal Challengers Bengaluru
+1426296,Punjab Kings,HV Patel,0,1,0,0,10,out,0.0,Punjab Kings vs Royal Challengers Bengaluru
+1426296,Punjab Kings,JM Bairstow,27,16,4,1,3,out,168.75,Punjab Kings vs Royal Challengers Bengaluru
+1426296,Punjab Kings,JM Sharma,5,4,1,0,5,out,125.0,Punjab Kings vs Royal Challengers Bengaluru
+1426296,Punjab Kings,LS Livingstone,0,2,0,0,6,out,0.0,Punjab Kings vs Royal Challengers Bengaluru
+1426296,Punjab Kings,P Simran Singh,6,4,1,0,1,out,150.0,Punjab Kings vs Royal Challengers Bengaluru
+1426296,Punjab Kings,RD Chahar,5,5,1,0,9,not out,100.0,Punjab Kings vs Royal Challengers Bengaluru
+1426296,Punjab Kings,RR Rossouw,61,27,9,3,2,out,225.93,Punjab Kings vs Royal Challengers Bengaluru
+1426296,Punjab Kings,SM Curran,22,16,2,0,7,out,137.5,Punjab Kings vs Royal Challengers Bengaluru
+1426296,Punjab Kings,Shashank Singh,37,19,4,2,4,out,194.74,Punjab Kings vs Royal Challengers Bengaluru
+1426297,Gujarat Titans,B Sai Sudharsan,103,51,5,8,1,out,201.96,Gujarat Titans vs Chennai Super Kings
+1426297,Gujarat Titans,DA Miller,16,11,1,0,3,not out,145.45,Gujarat Titans vs Chennai Super Kings
+1426297,Gujarat Titans,M Shahrukh Khan,2,3,0,0,4,out,66.67,Gujarat Titans vs Chennai Super Kings
+1426297,Gujarat Titans,Shubman Gill,104,55,9,6,2,out,189.09,Gujarat Titans vs Chennai Super Kings
+1426297,Chennai Super Kings,AM Rahane,1,5,0,0,1,out,20.0,Chennai Super Kings vs Gujarat Titans
+1426297,Chennai Super Kings,DJ Mitchell,63,34,7,3,3,out,185.29,Chennai Super Kings vs Gujarat Titans
+1426297,Chennai Super Kings,MJ Santner,0,2,0,0,9,out,0.0,Chennai Super Kings vs Gujarat Titans
+1426297,Chennai Super Kings,MM Ali,56,36,4,4,5,out,155.56,Chennai Super Kings vs Gujarat Titans
+1426297,Chennai Super Kings,MS Dhoni,26,11,1,3,8,not out,236.36,Chennai Super Kings vs Gujarat Titans
+1426297,Chennai Super Kings,R Ravindra,1,2,0,0,2,out,50.0,Chennai Super Kings vs Gujarat Titans
+1426297,Chennai Super Kings,RA Jadeja,18,10,2,1,7,out,180.0,Chennai Super Kings vs Gujarat Titans
+1426297,Chennai Super Kings,RD Gaikwad,0,3,0,0,4,out,0.0,Chennai Super Kings vs Gujarat Titans
+1426297,Chennai Super Kings,S Dube,21,13,2,1,6,out,161.54,Chennai Super Kings vs Gujarat Titans
+1426297,Chennai Super Kings,SN Thakur,3,4,0,0,10,not out,75.0,Chennai Super Kings vs Gujarat Titans
+1426298,Kolkata Knight Riders,AD Russell,24,14,2,2,6,out,171.43,Kolkata Knight Riders vs Mumbai Indians
+1426298,Kolkata Knight Riders,MA Starc,2,2,0,0,9,not out,100.0,Kolkata Knight Riders vs Mumbai Indians
+1426298,Kolkata Knight Riders,N Rana,33,23,4,1,5,out,143.48,Kolkata Knight Riders vs Mumbai Indians
+1426298,Kolkata Knight Riders,PD Salt,6,5,0,1,1,out,120.0,Kolkata Knight Riders vs Mumbai Indians
+1426298,Kolkata Knight Riders,RK Singh,20,12,0,2,7,out,166.67,Kolkata Knight Riders vs Mumbai Indians
+1426298,Kolkata Knight Riders,Ramandeep Singh,17,8,1,1,8,not out,212.5,Kolkata Knight Riders vs Mumbai Indians
+1426298,Kolkata Knight Riders,SP Narine,0,1,0,0,3,out,0.0,Kolkata Knight Riders vs Mumbai Indians
+1426298,Kolkata Knight Riders,SS Iyer,7,10,1,0,4,out,70.0,Kolkata Knight Riders vs Mumbai Indians
+1426298,Kolkata Knight Riders,VR Iyer,42,21,6,2,2,out,200.0,Kolkata Knight Riders vs Mumbai Indians
+1426298,Mumbai Indians,A Kamboj,2,2,0,0,9,not out,100.0,Mumbai Indians vs Kolkata Knight Riders
+1426298,Mumbai Indians,HH Pandya,2,4,0,0,5,out,50.0,Mumbai Indians vs Kolkata Knight Riders
+1426298,Mumbai Indians,Ishan Kishan,40,22,5,2,1,out,181.82,Mumbai Indians vs Kolkata Knight Riders
+1426298,Mumbai Indians,N Wadhera,3,3,0,0,7,out,100.0,Mumbai Indians vs Kolkata Knight Riders
+1426298,Mumbai Indians,Naman Dhir,17,6,1,2,8,out,283.33,Mumbai Indians vs Kolkata Knight Riders
+1426298,Mumbai Indians,PP Chawla,1,2,0,0,10,not out,50.0,Mumbai Indians vs Kolkata Knight Riders
+1426298,Mumbai Indians,RG Sharma,19,24,1,1,2,out,79.17,Mumbai Indians vs Kolkata Knight Riders
+1426298,Mumbai Indians,SA Yadav,11,14,1,0,3,out,78.57,Mumbai Indians vs Kolkata Knight Riders
+1426298,Mumbai Indians,TH David,0,3,0,0,6,out,0.0,Mumbai Indians vs Kolkata Knight Riders
+1426298,Mumbai Indians,Tilak Varma,32,17,5,1,4,out,188.24,Mumbai Indians vs Kolkata Knight Riders
+1426299,Rajasthan Royals,Dhruv Jurel,28,18,1,2,5,out,155.56,Rajasthan Royals vs Chennai Super Kings
+1426299,Rajasthan Royals,JC Buttler,21,25,2,0,2,out,84.0,Rajasthan Royals vs Chennai Super Kings
+1426299,Rajasthan Royals,R Ashwin,1,1,0,0,7,not out,100.0,Rajasthan Royals vs Chennai Super Kings
+1426299,Rajasthan Royals,R Parag,47,35,1,3,4,not out,134.29,Rajasthan Royals vs Chennai Super Kings
+1426299,Rajasthan Royals,SB Dubey,0,1,0,0,6,out,0.0,Rajasthan Royals vs Chennai Super Kings
+1426299,Rajasthan Royals,SV Samson,15,19,0,0,3,out,78.95,Rajasthan Royals vs Chennai Super Kings
+1426299,Rajasthan Royals,YBK Jaiswal,24,21,3,1,1,out,114.29,Rajasthan Royals vs Chennai Super Kings
+1426299,Chennai Super Kings,DJ Mitchell,22,13,4,0,3,out,169.23,Chennai Super Kings vs Rajasthan Royals
+1426299,Chennai Super Kings,MM Ali,10,13,0,0,4,out,76.92,Chennai Super Kings vs Rajasthan Royals
+1426299,Chennai Super Kings,R Ravindra,27,18,1,2,1,out,150.0,Chennai Super Kings vs Rajasthan Royals
+1426299,Chennai Super Kings,RA Jadeja,5,6,0,0,6,out,83.33,Chennai Super Kings vs Rajasthan Royals
+1426299,Chennai Super Kings,RD Gaikwad,42,41,1,2,2,not out,102.44,Chennai Super Kings vs Rajasthan Royals
+1426299,Chennai Super Kings,S Dube,18,11,2,1,5,out,163.64,Chennai Super Kings vs Rajasthan Royals
+1426299,Chennai Super Kings,Sameer Rizvi,15,8,3,0,7,not out,187.5,Chennai Super Kings vs Rajasthan Royals
+1426300,Royal Challengers Bengaluru,C Green,32,24,1,2,5,not out,133.33,Royal Challengers Bengaluru vs Delhi Capitals
+1426300,Royal Challengers Bengaluru,F du Plessis,6,7,1,0,2,out,85.71,Royal Challengers Bengaluru vs Delhi Capitals
+1426300,Royal Challengers Bengaluru,KD Karthik,0,2,0,0,7,out,0.0,Royal Challengers Bengaluru vs Delhi Capitals
+1426300,Royal Challengers Bengaluru,KV Sharma,6,4,1,0,9,out,150.0,Royal Challengers Bengaluru vs Delhi Capitals
+1426300,Royal Challengers Bengaluru,MK Lomror,13,8,0,1,6,out,162.5,Royal Challengers Bengaluru vs Delhi Capitals
+1426300,Royal Challengers Bengaluru,RM Patidar,52,32,3,3,4,out,162.5,Royal Challengers Bengaluru vs Delhi Capitals
+1426300,Royal Challengers Bengaluru,Swapnil Singh,0,1,0,0,8,out,0.0,Royal Challengers Bengaluru vs Delhi Capitals
+1426300,Royal Challengers Bengaluru,V Kohli,27,13,1,3,1,out,207.69,Royal Challengers Bengaluru vs Delhi Capitals
+1426300,Royal Challengers Bengaluru,WG Jacks,41,29,3,2,3,out,141.38,Royal Challengers Bengaluru vs Delhi Capitals
+1426300,Delhi Capitals,AR Patel,57,39,5,3,6,out,146.15,Delhi Capitals vs Royal Challengers Bengaluru
+1426300,Delhi Capitals,Abishek Porel,2,3,0,0,3,out,66.67,Delhi Capitals vs Royal Challengers Bengaluru
+1426300,Delhi Capitals,DA Warner,1,2,0,0,1,out,50.0,Delhi Capitals vs Royal Challengers Bengaluru
+1426300,Delhi Capitals,I Sharma,0,4,0,0,11,not out,0.0,Delhi Capitals vs Royal Challengers Bengaluru
+1426300,Delhi Capitals,J Fraser-McGurk,21,8,2,2,2,out,262.5,Delhi Capitals vs Royal Challengers Bengaluru
+1426300,Delhi Capitals,Kuldeep Yadav,6,10,0,0,10,out,60.0,Delhi Capitals vs Royal Challengers Bengaluru
+1426300,Delhi Capitals,Kumar Kushagra,2,3,0,0,5,out,66.67,Delhi Capitals vs Royal Challengers Bengaluru
+1426300,Delhi Capitals,Mukesh Kumar,3,7,0,0,9,out,42.86,Delhi Capitals vs Royal Challengers Bengaluru
+1426300,Delhi Capitals,Rasikh Salam,10,12,1,0,8,out,83.33,Delhi Capitals vs Royal Challengers Bengaluru
+1426300,Delhi Capitals,SD Hope,29,23,4,0,4,out,126.09,Delhi Capitals vs Royal Challengers Bengaluru
+1426300,Delhi Capitals,T Stubbs,3,4,0,0,7,out,75.0,Delhi Capitals vs Royal Challengers Bengaluru
+1426302,Delhi Capitals,AR Patel,14,10,2,0,6,not out,140.0,Delhi Capitals vs Lucknow Super Giants
+1426302,Delhi Capitals,Abishek Porel,58,33,5,4,3,out,175.76,Delhi Capitals vs Lucknow Super Giants
+1426302,Delhi Capitals,J Fraser-McGurk,0,2,0,0,1,out,0.0,Delhi Capitals vs Lucknow Super Giants
+1426302,Delhi Capitals,RR Pant,33,23,5,0,4,out,143.48,Delhi Capitals vs Lucknow Super Giants
+1426302,Delhi Capitals,SD Hope,38,27,3,2,2,out,140.74,Delhi Capitals vs Lucknow Super Giants
+1426302,Delhi Capitals,T Stubbs,57,25,3,4,5,not out,228.0,Delhi Capitals vs Lucknow Super Giants
+1426302,Lucknow Super Giants,A Badoni,6,9,0,0,6,out,66.67,Lucknow Super Giants vs Delhi Capitals
+1426302,Lucknow Super Giants,Arshad Khan,58,33,3,5,8,not out,175.76,Lucknow Super Giants vs Delhi Capitals
+1426302,Lucknow Super Giants,DJ Hooda,0,2,0,0,4,out,0.0,Lucknow Super Giants vs Delhi Capitals
+1426302,Lucknow Super Giants,KH Pandya,18,18,2,0,7,out,100.0,Lucknow Super Giants vs Delhi Capitals
+1426302,Lucknow Super Giants,KL Rahul,5,3,1,0,2,out,166.67,Lucknow Super Giants vs Delhi Capitals
+1426302,Lucknow Super Giants,MP Stoinis,5,7,1,0,3,out,71.43,Lucknow Super Giants vs Delhi Capitals
+1426302,Lucknow Super Giants,N Pooran,61,27,6,4,5,out,225.93,Lucknow Super Giants vs Delhi Capitals
+1426302,Lucknow Super Giants,Naveen-ul-Haq,2,4,0,0,11,not out,50.0,Lucknow Super Giants vs Delhi Capitals
+1426302,Lucknow Super Giants,Q de Kock,12,8,2,0,1,out,150.0,Lucknow Super Giants vs Delhi Capitals
+1426302,Lucknow Super Giants,Ravi Bishnoi,2,2,0,0,10,out,100.0,Lucknow Super Giants vs Delhi Capitals
+1426302,Lucknow Super Giants,Yudhvir Singh,14,7,1,1,9,out,200.0,Lucknow Super Giants vs Delhi Capitals
+1426303,Rajasthan Royals,Avesh Khan,3,2,0,0,10,not out,150.0,Rajasthan Royals vs Punjab Kings
+1426303,Rajasthan Royals,D Ferreira,7,8,0,0,8,out,87.5,Rajasthan Royals vs Punjab Kings
+1426303,Rajasthan Royals,Dhruv Jurel,0,1,0,0,6,out,0.0,Rajasthan Royals vs Punjab Kings
+1426303,Rajasthan Royals,R Ashwin,28,19,3,1,5,out,147.37,Rajasthan Royals vs Punjab Kings
+1426303,Rajasthan Royals,R Parag,48,34,6,0,4,out,141.18,Rajasthan Royals vs Punjab Kings
+1426303,Rajasthan Royals,R Powell,4,5,1,0,7,out,80.0,Rajasthan Royals vs Punjab Kings
+1426303,Rajasthan Royals,SV Samson,18,15,3,0,2,out,120.0,Rajasthan Royals vs Punjab Kings
+1426303,Rajasthan Royals,T Kohler-Cadmore,18,23,2,1,3,out,78.26,Rajasthan Royals vs Punjab Kings
+1426303,Rajasthan Royals,TA Boult,12,9,2,0,9,out,133.33,Rajasthan Royals vs Punjab Kings
+1426303,Rajasthan Royals,YBK Jaiswal,4,4,1,0,1,out,100.0,Rajasthan Royals vs Punjab Kings
+1426303,Punjab Kings,Ashutosh Sharma,17,11,1,1,7,not out,154.55,Punjab Kings vs Rajasthan Royals
+1426303,Punjab Kings,JM Bairstow,14,22,1,0,3,out,63.64,Punjab Kings vs Rajasthan Royals
+1426303,Punjab Kings,JM Sharma,22,20,0,2,6,out,110.0,Punjab Kings vs Rajasthan Royals
+1426303,Punjab Kings,P Simran Singh,6,4,1,0,1,out,150.0,Punjab Kings vs Rajasthan Royals
+1426303,Punjab Kings,RR Rossouw,22,13,5,0,2,out,169.23,Punjab Kings vs Rajasthan Royals
+1426303,Punjab Kings,SM Curran,63,41,5,3,5,not out,153.66,Punjab Kings vs Rajasthan Royals
+1426303,Punjab Kings,Shashank Singh,0,2,0,0,4,out,0.0,Punjab Kings vs Rajasthan Royals
+1426305,Lucknow Super Giants,A Badoni,22,10,1,2,8,not out,220.0,Lucknow Super Giants vs Mumbai Indians
+1426305,Lucknow Super Giants,Arshad Khan,0,1,0,0,6,out,0.0,Lucknow Super Giants vs Mumbai Indians
+1426305,Lucknow Super Giants,D Padikkal,0,1,0,0,2,out,0.0,Lucknow Super Giants vs Mumbai Indians
+1426305,Lucknow Super Giants,DJ Hooda,11,9,1,0,4,out,122.22,Lucknow Super Giants vs Mumbai Indians
+1426305,Lucknow Super Giants,KH Pandya,12,7,1,1,7,not out,171.43,Lucknow Super Giants vs Mumbai Indians
+1426305,Lucknow Super Giants,KL Rahul,55,41,3,3,1,out,134.15,Lucknow Super Giants vs Mumbai Indians
+1426305,Lucknow Super Giants,MP Stoinis,28,22,5,0,3,out,127.27,Lucknow Super Giants vs Mumbai Indians
+1426305,Lucknow Super Giants,N Pooran,75,29,5,8,5,out,258.62,Lucknow Super Giants vs Mumbai Indians
+1426305,Mumbai Indians,D Brevis,23,20,1,2,2,out,115.0,Mumbai Indians vs Lucknow Super Giants
+1426305,Mumbai Indians,HH Pandya,16,13,1,1,5,out,123.08,Mumbai Indians vs Lucknow Super Giants
+1426305,Mumbai Indians,Ishan Kishan,14,15,1,0,4,out,93.33,Mumbai Indians vs Lucknow Super Giants
+1426305,Mumbai Indians,N Wadhera,1,3,0,0,6,out,33.33,Mumbai Indians vs Lucknow Super Giants
+1426305,Mumbai Indians,Naman Dhir,62,27,4,5,7,not out,229.63,Mumbai Indians vs Lucknow Super Giants
+1426305,Mumbai Indians,R Shepherd,1,1,0,0,8,not out,100.0,Mumbai Indians vs Lucknow Super Giants
+1426305,Mumbai Indians,RG Sharma,68,38,10,3,1,out,178.95,Mumbai Indians vs Lucknow Super Giants
+1426305,Mumbai Indians,SA Yadav,0,3,0,0,3,out,0.0,Mumbai Indians vs Lucknow Super Giants
+1426306,Royal Challengers Bengaluru,C Green,38,17,3,3,4,not out,223.53,Royal Challengers Bengaluru vs Chennai Super Kings
+1426306,Royal Challengers Bengaluru,F du Plessis,54,39,3,3,2,out,138.46,Royal Challengers Bengaluru vs Chennai Super Kings
+1426306,Royal Challengers Bengaluru,GJ Maxwell,16,5,2,1,6,out,320.0,Royal Challengers Bengaluru vs Chennai Super Kings
+1426306,Royal Challengers Bengaluru,KD Karthik,14,6,1,1,5,out,233.33,Royal Challengers Bengaluru vs Chennai Super Kings
+1426306,Royal Challengers Bengaluru,MK Lomror,0,1,0,0,7,not out,0.0,Royal Challengers Bengaluru vs Chennai Super Kings
+1426306,Royal Challengers Bengaluru,RM Patidar,41,23,2,4,3,out,178.26,Royal Challengers Bengaluru vs Chennai Super Kings
+1426306,Royal Challengers Bengaluru,V Kohli,47,29,3,4,1,out,162.07,Royal Challengers Bengaluru vs Chennai Super Kings
+1426306,Chennai Super Kings,AM Rahane,33,22,3,1,4,out,150.0,Chennai Super Kings vs Royal Challengers Bengaluru
+1426306,Chennai Super Kings,DJ Mitchell,4,6,0,0,2,out,66.67,Chennai Super Kings vs Royal Challengers Bengaluru
+1426306,Chennai Super Kings,MJ Santner,3,4,0,0,7,out,75.0,Chennai Super Kings vs Royal Challengers Bengaluru
+1426306,Chennai Super Kings,MS Dhoni,25,12,3,1,8,out,208.33,Chennai Super Kings vs Royal Challengers Bengaluru
+1426306,Chennai Super Kings,R Ravindra,57,36,4,3,3,out,158.33,Chennai Super Kings vs Royal Challengers Bengaluru
+1426306,Chennai Super Kings,RA Jadeja,42,22,3,3,6,not out,190.91,Chennai Super Kings vs Royal Challengers Bengaluru
+1426306,Chennai Super Kings,RD Gaikwad,0,1,0,0,1,out,0.0,Chennai Super Kings vs Royal Challengers Bengaluru
+1426306,Chennai Super Kings,S Dube,7,15,0,0,5,out,46.67,Chennai Super Kings vs Royal Challengers Bengaluru
+1426306,Chennai Super Kings,SN Thakur,1,2,0,0,9,not out,50.0,Chennai Super Kings vs Royal Challengers Bengaluru
+1426307,Punjab Kings,Ashutosh Sharma,2,3,0,0,6,out,66.67,Punjab Kings vs Sunrisers Hyderabad
+1426307,Punjab Kings,Atharva Taide,46,27,5,2,1,out,170.37,Punjab Kings vs Sunrisers Hyderabad
+1426307,Punjab Kings,JM Sharma,32,15,2,2,5,not out,213.33,Punjab Kings vs Sunrisers Hyderabad
+1426307,Punjab Kings,P Simran Singh,71,45,7,4,2,out,157.78,Punjab Kings vs Sunrisers Hyderabad
+1426307,Punjab Kings,RR Rossouw,49,23,3,4,3,out,213.04,Punjab Kings vs Sunrisers Hyderabad
+1426307,Punjab Kings,Shashank Singh,2,4,0,0,4,out,50.0,Punjab Kings vs Sunrisers Hyderabad
+1426307,Punjab Kings,Shivam Singh,2,3,0,0,7,not out,66.67,Punjab Kings vs Sunrisers Hyderabad
+1426307,Sunrisers Hyderabad,Abdul Samad,11,8,0,1,7,not out,137.5,Sunrisers Hyderabad vs Punjab Kings
+1426307,Sunrisers Hyderabad,Abhishek Sharma,66,28,5,6,3,out,235.71,Sunrisers Hyderabad vs Punjab Kings
+1426307,Sunrisers Hyderabad,H Klaasen,42,26,3,2,5,out,161.54,Sunrisers Hyderabad vs Punjab Kings
+1426307,Sunrisers Hyderabad,Nithish Kumar Reddy,37,25,1,3,4,out,148.0,Sunrisers Hyderabad vs Punjab Kings
+1426307,Sunrisers Hyderabad,RA Tripathi,27,17,4,1,2,out,158.82,Sunrisers Hyderabad vs Punjab Kings
+1426307,Sunrisers Hyderabad,Sanvir Singh,6,4,1,0,8,not out,150.0,Sunrisers Hyderabad vs Punjab Kings
+1426307,Sunrisers Hyderabad,Shahbaz Ahmed,3,6,0,0,6,out,50.0,Sunrisers Hyderabad vs Punjab Kings
+1426307,Sunrisers Hyderabad,TM Head,0,1,0,0,1,out,0.0,Sunrisers Hyderabad vs Punjab Kings
+1426309,Sunrisers Hyderabad,Abdul Samad,16,12,0,2,7,out,133.33,Sunrisers Hyderabad vs Kolkata Knight Riders
+1426309,Sunrisers Hyderabad,Abhishek Sharma,3,4,0,0,3,out,75.0,Sunrisers Hyderabad vs Kolkata Knight Riders
+1426309,Sunrisers Hyderabad,B Kumar,0,4,0,0,10,out,0.0,Sunrisers Hyderabad vs Kolkata Knight Riders
+1426309,Sunrisers Hyderabad,H Klaasen,31,20,3,1,6,out,155.0,Sunrisers Hyderabad vs Kolkata Knight Riders
+1426309,Sunrisers Hyderabad,Nithish Kumar Reddy,9,10,1,0,4,out,90.0,Sunrisers Hyderabad vs Kolkata Knight Riders
+1426309,Sunrisers Hyderabad,PJ Cummins,30,24,2,2,9,out,125.0,Sunrisers Hyderabad vs Kolkata Knight Riders
+1426309,Sunrisers Hyderabad,RA Tripathi,51,34,6,1,2,out,150.0,Sunrisers Hyderabad vs Kolkata Knight Riders
+1426309,Sunrisers Hyderabad,Sanvir Singh,0,1,0,0,8,out,0.0,Sunrisers Hyderabad vs Kolkata Knight Riders
+1426309,Sunrisers Hyderabad,Shahbaz Ahmed,0,1,0,0,5,out,0.0,Sunrisers Hyderabad vs Kolkata Knight Riders
+1426309,Sunrisers Hyderabad,TM Head,0,2,0,0,1,out,0.0,Sunrisers Hyderabad vs Kolkata Knight Riders
+1426309,Sunrisers Hyderabad,V Viyaskanth,7,5,0,0,11,not out,140.0,Sunrisers Hyderabad vs Kolkata Knight Riders
+1426309,Kolkata Knight Riders,Rahmanullah Gurbaz,23,14,2,2,1,out,164.29,Kolkata Knight Riders vs Sunrisers Hyderabad
+1426309,Kolkata Knight Riders,SP Narine,21,16,4,0,2,out,131.25,Kolkata Knight Riders vs Sunrisers Hyderabad
+1426309,Kolkata Knight Riders,SS Iyer,58,24,5,4,4,not out,241.67,Kolkata Knight Riders vs Sunrisers Hyderabad
+1426309,Kolkata Knight Riders,VR Iyer,51,28,5,4,3,not out,182.14,Kolkata Knight Riders vs Sunrisers Hyderabad
+1426310,Royal Challengers Bengaluru,C Green,27,21,2,1,3,out,128.57,Royal Challengers Bengaluru vs Rajasthan Royals
+1426310,Royal Challengers Bengaluru,F du Plessis,17,14,2,1,2,out,121.43,Royal Challengers Bengaluru vs Rajasthan Royals
+1426310,Royal Challengers Bengaluru,GJ Maxwell,0,1,0,0,5,out,0.0,Royal Challengers Bengaluru vs Rajasthan Royals
+1426310,Royal Challengers Bengaluru,KD Karthik,11,13,1,0,7,out,84.62,Royal Challengers Bengaluru vs Rajasthan Royals
+1426310,Royal Challengers Bengaluru,KV Sharma,5,4,1,0,9,out,125.0,Royal Challengers Bengaluru vs Rajasthan Royals
+1426310,Royal Challengers Bengaluru,MK Lomror,32,17,2,2,6,out,188.24,Royal Challengers Bengaluru vs Rajasthan Royals
+1426310,Royal Challengers Bengaluru,RM Patidar,34,22,2,2,4,out,154.55,Royal Challengers Bengaluru vs Rajasthan Royals
+1426310,Royal Challengers Bengaluru,Swapnil Singh,9,4,0,1,8,not out,225.0,Royal Challengers Bengaluru vs Rajasthan Royals
+1426310,Royal Challengers Bengaluru,V Kohli,33,24,3,1,1,out,137.5,Royal Challengers Bengaluru vs Rajasthan Royals
+1426310,Rajasthan Royals,Dhruv Jurel,8,8,1,0,5,out,100.0,Rajasthan Royals vs Royal Challengers Bengaluru
+1426310,Rajasthan Royals,R Parag,36,26,2,2,4,out,138.46,Rajasthan Royals vs Royal Challengers Bengaluru
+1426310,Rajasthan Royals,R Powell,16,8,2,1,7,not out,200.0,Rajasthan Royals vs Royal Challengers Bengaluru
+1426310,Rajasthan Royals,SO Hetmyer,26,14,3,1,6,out,185.71,Rajasthan Royals vs Royal Challengers Bengaluru
+1426310,Rajasthan Royals,SV Samson,17,13,0,1,3,not out,130.77,Rajasthan Royals vs Royal Challengers Bengaluru
+1426310,Rajasthan Royals,T Kohler-Cadmore,20,15,4,0,2,out,133.33,Rajasthan Royals vs Royal Challengers Bengaluru
+1426310,Rajasthan Royals,YBK Jaiswal,45,30,8,0,1,out,150.0,Rajasthan Royals vs Royal Challengers Bengaluru
+1426311,Sunrisers Hyderabad,AK Markram,1,2,0,0,4,out,50.0,Sunrisers Hyderabad vs Rajasthan Royals
+1426311,Sunrisers Hyderabad,Abdul Samad,0,1,0,0,7,out,0.0,Sunrisers Hyderabad vs Rajasthan Royals
+1426311,Sunrisers Hyderabad,Abhishek Sharma,12,5,1,1,2,out,240.0,Sunrisers Hyderabad vs Rajasthan Royals
+1426311,Sunrisers Hyderabad,H Klaasen,50,34,0,4,5,out,147.06,Sunrisers Hyderabad vs Rajasthan Royals
+1426311,Sunrisers Hyderabad,JD Unadkat,5,2,1,0,10,out,250.0,Sunrisers Hyderabad vs Rajasthan Royals
+1426311,Sunrisers Hyderabad,Nithish Kumar Reddy,5,10,0,0,6,out,50.0,Sunrisers Hyderabad vs Rajasthan Royals
+1426311,Sunrisers Hyderabad,PJ Cummins,5,5,1,0,9,not out,100.0,Sunrisers Hyderabad vs Rajasthan Royals
+1426311,Sunrisers Hyderabad,RA Tripathi,37,15,5,2,3,out,246.67,Sunrisers Hyderabad vs Rajasthan Royals
+1426311,Sunrisers Hyderabad,Shahbaz Ahmed,18,18,0,1,8,out,100.0,Sunrisers Hyderabad vs Rajasthan Royals
+1426311,Sunrisers Hyderabad,TM Head,34,28,3,1,1,out,121.43,Sunrisers Hyderabad vs Rajasthan Royals
+1426311,Rajasthan Royals,Dhruv Jurel,56,35,7,2,5,not out,160.0,Rajasthan Royals vs Sunrisers Hyderabad
+1426311,Rajasthan Royals,R Ashwin,0,3,0,0,6,out,0.0,Rajasthan Royals vs Sunrisers Hyderabad
+1426311,Rajasthan Royals,R Parag,6,10,0,0,4,out,60.0,Rajasthan Royals vs Sunrisers Hyderabad
+1426311,Rajasthan Royals,R Powell,6,12,0,0,8,out,50.0,Rajasthan Royals vs Sunrisers Hyderabad
+1426311,Rajasthan Royals,SO Hetmyer,4,9,0,0,7,out,44.44,Rajasthan Royals vs Sunrisers Hyderabad
+1426311,Rajasthan Royals,SV Samson,10,11,1,0,3,out,90.91,Rajasthan Royals vs Sunrisers Hyderabad
+1426311,Rajasthan Royals,T Kohler-Cadmore,10,16,1,0,2,out,62.5,Rajasthan Royals vs Sunrisers Hyderabad
+1426311,Rajasthan Royals,TA Boult,0,3,0,0,9,not out,0.0,Rajasthan Royals vs Sunrisers Hyderabad
+1426311,Rajasthan Royals,YBK Jaiswal,42,21,4,3,1,out,200.0,Rajasthan Royals vs Sunrisers Hyderabad
+1426312,Sunrisers Hyderabad,AK Markram,20,23,3,0,4,out,86.96,Sunrisers Hyderabad vs Kolkata Knight Riders
+1426312,Sunrisers Hyderabad,Abdul Samad,4,4,0,0,8,out,100.0,Sunrisers Hyderabad vs Kolkata Knight Riders
+1426312,Sunrisers Hyderabad,Abhishek Sharma,2,5,0,0,1,out,40.0,Sunrisers Hyderabad vs Kolkata Knight Riders
+1426312,Sunrisers Hyderabad,B Kumar,0,1,0,0,11,not out,0.0,Sunrisers Hyderabad vs Kolkata Knight Riders
+1426312,Sunrisers Hyderabad,H Klaasen,16,17,1,0,6,out,94.12,Sunrisers Hyderabad vs Kolkata Knight Riders
+1426312,Sunrisers Hyderabad,JD Unadkat,4,11,0,0,10,out,36.36,Sunrisers Hyderabad vs Kolkata Knight Riders
+1426312,Sunrisers Hyderabad,Nithish Kumar Reddy,13,10,1,1,5,out,130.0,Sunrisers Hyderabad vs Kolkata Knight Riders
+1426312,Sunrisers Hyderabad,PJ Cummins,24,19,2,1,9,out,126.32,Sunrisers Hyderabad vs Kolkata Knight Riders
+1426312,Sunrisers Hyderabad,RA Tripathi,9,13,1,0,2,out,69.23,Sunrisers Hyderabad vs Kolkata Knight Riders
+1426312,Sunrisers Hyderabad,Shahbaz Ahmed,8,7,0,1,7,out,114.29,Sunrisers Hyderabad vs Kolkata Knight Riders
+1426312,Sunrisers Hyderabad,TM Head,0,1,0,0,3,out,0.0,Sunrisers Hyderabad vs Kolkata Knight Riders
+1426312,Kolkata Knight Riders,Rahmanullah Gurbaz,39,32,5,2,1,out,121.88,Kolkata Knight Riders vs Sunrisers Hyderabad
+1426312,Kolkata Knight Riders,SP Narine,6,2,0,1,2,out,300.0,Kolkata Knight Riders vs Sunrisers Hyderabad
+1426312,Kolkata Knight Riders,SS Iyer,6,3,1,0,4,not out,200.0,Kolkata Knight Riders vs Sunrisers Hyderabad
+1426312,Kolkata Knight Riders,VR Iyer,52,26,4,3,3,not out,200.0,Kolkata Knight Riders vs Sunrisers Hyderabad
