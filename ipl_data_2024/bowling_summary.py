@@ -55,7 +55,7 @@ summary = legal_counts.merge(bowler_runs, on=['match_id', 'bowling_team', 'bowle
                       .merge(maidens, on=['match_id', 'bowling_team', 'bowler'], how='left')
 
 # Fill NaNs
-for col in ['runs', 'wickets', '0s', '4s', '6s', 'extra_runs', 'no_of_wides', 'no_of_no_balls', 'maidens']:
+for col in ['runs', 'wickets', '0s', '4s', '6s', 'no_of_wides', 'no_of_no_balls', 'maidens']:
     summary[col] = summary[col].fillna(0).astype(int)
 
 # Economy Rate = (Runs / Overs) * 6
