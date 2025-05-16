@@ -1,4 +1,4 @@
-# Ignore all CSV files
+# Ignore all CSV files except summary
 ipl_data_2008_to_2024/*.csv
 ipl_data_2024/*.csv
 
