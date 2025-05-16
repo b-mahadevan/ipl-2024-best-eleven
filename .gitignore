@@ -1,5 +1,5 @@
-# Ignore initial dataset CSV files
-ipl_data_2008_to_2024/*.csv
+# Ignore all CSV files
+*.csv
 
 # Ignore Python bytecode cache directories
 __pycache__/
