@@ -1,6 +1,9 @@
-# Ignore all CSV files except summary
+# Ignore CSV files
 ipl_data_2008_to_2024/*.csv
 ipl_data_2024/*.csv
+
+# Ignore web scraped player summary CSV file
+summarized_data/ipl_2024_player_summary.csv
 
 # Ignore Python bytecode cache directories
 __pycache__/
