@@ -28,7 +28,7 @@ valid_wickets = df[
 ]
 wickets = valid_wickets.groupby(['match_id', 'bowling_team', 'bowler']).size().reset_index(name='wickets')
 
-# Dot balls (0s) from legal deliveries only
+# Dot balls from legal deliveries only
 dot_balls = legal_df[legal_df['total_runs'] == 0].groupby(['match_id', 'bowling_team', 'bowler']).size().reset_index(name='0s')
 
 # Fours and Sixes
@@ -58,7 +58,7 @@ summary = legal_counts.merge(bowler_runs, on=['match_id', 'bowling_team', 'bowle
 for col in ['runs', 'wickets', '0s', '4s', '6s', 'no_of_wides', 'no_of_no_balls', 'maidens']:
     summary[col] = summary[col].fillna(0).astype(int)
 
-# Economy Rate = (Runs / Overs) * 6
+# Economy Rate
 summary['economy'] = round((summary['runs'] / summary['legal_deliveries']) * 6, 2)
 
 # Add 'match' column

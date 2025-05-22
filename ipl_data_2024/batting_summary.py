@@ -6,7 +6,7 @@ df = pd.read_csv("ipl_data_2024\ipl_deliveries_2024.csv")
 # Clean 'extras_type' column
 df['extras_type'] = df['extras_type'].fillna('').str.strip().str.lower()
 
-# Filter out wides and no-balls (keep only legal deliveries)
+# Filter out wides and no-balls
 legal_df = df[~df['extras_type'].isin(['wides', 'noballs'])]
 
 # Sort to reflect actual batting order
@@ -50,7 +50,7 @@ summary = summary.merge(
 )
 summary['out/not out'] = summary['out/not out'].fillna('not out')
 
-# Add Strike Rate (2 decimal points)
+# Add Strike Rate
 summary['SR'] = round((summary['runs'] / summary['balls']) * 100, 2)
 
 # Add "match" column
