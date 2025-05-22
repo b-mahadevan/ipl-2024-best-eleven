@@ -6,7 +6,7 @@ ipl_data_2024/*.csv
 web_scraped_data/*.csv
 
 # Ignore modified player summary CSV file
-summarized_data/dim_players.csv
+summarized_data/players_details_updated.csv
 
 # Ignore Python bytecode cache directories
 __pycache__/
