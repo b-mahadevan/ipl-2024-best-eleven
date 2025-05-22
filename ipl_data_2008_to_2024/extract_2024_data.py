@@ -14,16 +14,14 @@ print(column_names_deliveries)
 # Convert date column to datetime dtype
 df_matches['date'] = pd.to_datetime(df_matches['date'], errors='coerce')
 
-# Filter df_matches rows where year in the datetime equals to 2024
+# Filter df_matches rows
 df_matches_2024 = df_matches[df_matches['date'].dt.year == 2024]
 
-# Save the filtered version as separate csv
-df_matches_2024.to_csv('ipl_matches_in_2024.csv', index=False)
-
-# Filter df_deliveries rows where match_id is in df_matches_2024 id
+# Filter df_deliveries rows 
 df_deliveries_2024 = df_deliveries[df_deliveries['match_id'].isin(df_matches_2024['id'])]
 
 # Save the filtered version as separate csv
+df_matches_2024.to_csv('ipl_matches_in_2024.csv', index=False)
 df_deliveries_2024.to_csv('ipl_delieveries_2024.csv', index = False)
 
 
