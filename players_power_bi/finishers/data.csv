@@ -1,0 +1,6 @@
+﻿player_name,team,batting_style,bowling_style,Total Innings Batted,Total Runs,total balls faced,Strike rate,Batting Avg,Batting Position,Boundary %,wickets,Economy,balls Bowled,Bowling Strike Rate,Avg. balls Faced,Total Innings Bowled
+AD Russell,Kolkata Knight Riders,Right hand Bat,Right arm Fast,9,214,117,182.9059829059829,30.571428571428573,6,0.7850467289719626,19,10.056818181818182,176,9.263157894736842,13,14
+AR Patel,Delhi Capitals,Akshar Patel,Left hand Bat,12,235,179,131.2849162011173,29.375,6,0.5787234042553191,11,7.659090909090909,264,24,14.916666666666666,14
+C Green,Royal Challengers Bengaluru,Right hand Bat,Right arm Fast medium,12,255,178,143.25842696629215,31.875,5,0.5803921568627451,10,8.61611374407583,211,21.1,14.833333333333334,13
+Arshad Khan,Lucknow Super Giants,Left hand Bat,Left arm Fast medium,4,83,54,153.7037037037037,41.5,8,0.6506024096385542,1,11.213114754098362,61,61,13.5,4
+A Badoni,Lucknow Super Giants,Right hand Bat,Right arm Offbreak,12,235,171,137.4269005847953,29.375,6,0.502127659574468,0,12.5,12,0,14.25,2
