@@ -10,3 +10,6 @@ summarized_data/players_details_updated.csv
 
 # Ignore Python bytecode cache directories
 __pycache__/
+
+# Ignore Power BI Dashboard
+ipl_2024_dashboard
