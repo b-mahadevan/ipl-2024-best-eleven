@@ -13,3 +13,13 @@ __pycache__/
 
 # Ignore Power BI Dashboard
 ipl_2024_dashboard
+
+# Ignore everything in the folder
+ipl_2024_dashboard_pages/*
+
+# But don't ignore these three files
+!ipl_2024_dashboard_pages/ipl_2024_dashboard_page-0001.jpg
+!ipl_2024_dashboard_pages/ipl_2024_dashboard_page-0002.jpg
+!ipl_2024_dashboard_pages/ipl_2024_dashboard_page-0003_screenshot.png
+!ipl_2024_dashboard_pages/ipl_2024_dashboard_page-0007.jpg
+!ipl_2024_dashboard_pages/ipl_2024_dashboard_page-0007_screenshot.png
