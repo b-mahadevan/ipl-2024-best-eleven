@@ -44,15 +44,15 @@ This project analyzes IPL 2024 player performance data using Python, Pandas, Web
 - Scraped 2024 team squads from ESPNcricinfo using a Chrome extension.
 - Extracted: Player Name, Team, Role, Batting & Bowling Style.
 - Cleaned and saved the initial data as `ipl_2024_player_summary.csv`.
-- Then used Pandas to standardize player names to match the historical IPL dataset (matches.csv and deliveries.csv) and saved the updated dataset.
+- Then used Pandas to standardize player names to match the historical IPL dataset (matches.csv and deliveries.csv) and saved the updated dataset as `player_details_updated.csv`.
 
 ### ✅ Step 2: Data Filtering & Performance Analysis
 
 - Filtered 2024 matches from `matches.csv`.
 - Extracted corresponding delivery records from `deliveries.csv` using match_id of 2024 matches.
 - Calculated batting and bowling metrics using Pandas:
-  - **Batting**: Runs, Balls, Fours, Sixes, Strike Rate, Batting Position.
-  - **Bowling**: Overs, Runs Conceded, Wickets, Economy Rate, Dot Balls.
+  - **Batting**: Runs, Balls, Fours, Sixes, Strike Rate, Batting Position, and more.
+  - **Bowling**: Overs, Runs Conceded, Wickets, Economy Rate, Dot Balls, and more.
 
 ### ✅ Step 3: Power BI Dashboard
 
@@ -65,42 +65,48 @@ This project analyzes IPL 2024 player performance data using Python, Pandas, Web
   - Final Best Players
   - Final Team 11
 
-📸 **Screenshots**:  
-![Dashboard - Openers](https://github.com/yourusername/ipl-best-xi/blob/main/dashboard_images/ipl_2024_dashboard_page-0001.jpg)  
-![Dashboard - Anchors](https://github.com/yourusername/ipl-best-xi/blob/main/dashboard_images/ipl_2024_dashboard_page-0002.jpg)  
-![Dashboard - Finishers (Screenshot)](https://github.com/yourusername/ipl-best-xi/blob/main/dashboard_images/ipl_2024_dashboard_page-0007.jpg)
-![Dashboard Team 11 (Screenshot)](https://github.com/yourusername/ipl-best-xi/blob/main/dashboard_images/ipl_2024_dashboard_page-0007.jpg)
-![Dashboard Team 11](https://github.com/yourusername/ipl-best-xi/blob/main/dashboard_images/ipl_2024_dashboard_page-0007.jpg)
+---
+
+# 📊 Power BI Dashboard
+![Dashboard - Openers](https://github.com/b-mahadevan/ipl-2024-best-eleven/blob/main/ipl_2024_dashboard_pages/ipl_2024_dashboard_page-0001.jpg)  
+![Dashboard - Anchors](https://github.com/b-mahadevan/ipl-2024-best-eleven/blob/main/ipl_2024_dashboard_pages/ipl_2024_dashboard_page-0002.jpg)  
+![Dashboard Team 11](https://github.com/b-mahadevan/ipl-2024-best-eleven/blob/main/ipl_2024_dashboard_pages/ipl_2024_dashboard_page-0007.jpg)
+
+---
+
+# 📸 Additional Screenshots
+![Dashboard - Finishers (Screenshot)](https://github.com/b-mahadevan/ipl-2024-best-eleven/blob/main/ipl_2024_dashboard_pages/ipl_2024_dashboard_page-0003_screenshot.png)
+![Dashboard Team 11 (Screenshot)](https://github.com/b-mahadevan/ipl-2024-best-eleven/blob/main/ipl_2024_dashboard_pages/ipl_2024_dashboard_page-0007_screenshot.png)
 
 ---
 
 ## 🏏 Final Best XI – IPL 2024
 
-| Player Name         | Role           | Team            |
-|---------------------|----------------|------------------|
-| 1. Player A         | Batsman        | Team X           |
-| 2. Player B         | Batsman        | Team Y           |
-| 3. Player C         | All-Rounder    | Team Z           |
-| 4. Player D         | Batsman        | Team A           |
-| 5. Player E         | Wicket-Keeper  | Team B           |
-| 6. Player F         | All-Rounder    | Team C           |
-| 7. Player G         | Bowler         | Team D           |
-| 8. Player H         | Bowler         | Team E           |
-| 9. Player I         | Bowler         | Team F           |
-| 10. Player J        | Bowler         | Team G           |
-| 11. Player K        | Bowler         | Team H           |
-
-> ⚠️ Replace placeholder names with your actual selections.
+| Player Name         | Role                | Team                        |
+|---------------------|-------------------- |---------------------------- |
+| 1. TM Head          | Wicketkeeper        | Sunrisers Hyderabad         |
+| 2. V Kohli          | Top order Batter    | Royal Challengers Bengaluru |
+| 3. R Parag          | Top order Batter    | Rajasthan Royals            |
+| 4. SV Samson        | Wicketkeeper Batter	| Rajasthan Royals            |
+| 5. RR Pant          | Wicketkeeper Batter	| Delhi Capitals              |
+| 6. AD Russell       | Allrounder          | Kolkata Knight Riders       |
+| 7. Arshad Khan      | Bowler              | Lucknow Super Giants        |
+| 8. HH Pandya        | Allrounder          | Mumbai Indians              |
+| 9. Swapnil Singh    | Bowler              | Royal Challengers Bengaluru |
+| 10. CV Varun        | Bowler              | Kolkata Knight Riders       |
+| 11. JJ Bumrah       | Bowler              | Mumbai Indians              |
 
 ---
 
 ## 📈 Future Scope
 
-- After IPL 2025, compare this Best XI with actual performance.
+- After the conclusion of IPL 2025, perform the same data analysis on 2025 match and delivery data.
+- Compare the 2024-based Best XI with the actual top performers of 2025.
 - Analyze:
-  - Who delivered?
-  - Who underperformed?
-  - Suggestions for IPL 2026 Best XI.
+  ✅ Who delivered as expected?
+  ❌ Who underperformed?
+  🔁 Who should be replaced or retained?
+- Based on this comparison, finalize a refined Best XI for IPL 2026 using updated performance insights.
 
 ---
 
@@ -111,3 +117,4 @@ This project analyzes IPL 2024 player performance data using Python, Pandas, Web
 - Power BI and Pandas documentation
 - For educational and non-commercial use only.
 
+---
